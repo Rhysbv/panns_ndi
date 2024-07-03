@@ -1,0 +1,7 @@
+{
+    "ndi": {
+        "networks": {
+            "discovery": "discovery-service"
+        }
+    }
+}

@@ -1,0 +1,3593 @@
+EPANNS Predicted sound for (32768, tone): Sine wave
+PANNS Predicted sound for (32768, tone): Sine wave
+EPANNS Predicted sound for (32768, car): Music
+PANNS Predicted sound for (32768, car): Music
+EPANNS Predicted sound for (32768, river+car): Boat, Water vehicle
+PANNS Predicted sound for (32768, river+car): Waves, surf
+EPANNS Predicted sound for (32768, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (32768, phone+voice): Telephone bell ringing
+33792 1
+EPANNS Predicted sound for (33792, tone): Sine wave
+PANNS Predicted sound for (33792, tone): Sine wave
+EPANNS Predicted sound for (33792, car): Music
+PANNS Predicted sound for (33792, car): Music
+EPANNS Predicted sound for (33792, river+car): Boat, Water vehicle
+PANNS Predicted sound for (33792, river+car): Waves, surf
+EPANNS Predicted sound for (33792, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (33792, phone+voice): Telephone bell ringing
+34816 2
+EPANNS Predicted sound for (34816, tone): Sine wave
+PANNS Predicted sound for (34816, tone): Sine wave
+EPANNS Predicted sound for (34816, car): Music
+PANNS Predicted sound for (34816, car): Music
+EPANNS Predicted sound for (34816, river+car): Boat, Water vehicle
+PANNS Predicted sound for (34816, river+car): Waves, surf
+EPANNS Predicted sound for (34816, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (34816, phone+voice): Telephone bell ringing
+35840 3
+EPANNS Predicted sound for (35840, tone): Sine wave
+PANNS Predicted sound for (35840, tone): Sine wave
+EPANNS Predicted sound for (35840, car): Music
+PANNS Predicted sound for (35840, car): Music
+EPANNS Predicted sound for (35840, river+car): Boat, Water vehicle
+PANNS Predicted sound for (35840, river+car): Vehicle
+EPANNS Predicted sound for (35840, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (35840, phone+voice): Music
+36864 4
+EPANNS Predicted sound for (36864, tone): Sine wave
+PANNS Predicted sound for (36864, tone): Sine wave
+EPANNS Predicted sound for (36864, car): Music
+PANNS Predicted sound for (36864, car): Music
+EPANNS Predicted sound for (36864, river+car): Boat, Water vehicle
+PANNS Predicted sound for (36864, river+car): Vehicle
+EPANNS Predicted sound for (36864, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (36864, phone+voice): Music
+37888 5
+EPANNS Predicted sound for (37888, tone): Sine wave
+PANNS Predicted sound for (37888, tone): Sine wave
+EPANNS Predicted sound for (37888, car): Music
+PANNS Predicted sound for (37888, car): Music
+EPANNS Predicted sound for (37888, river+car): Boat, Water vehicle
+PANNS Predicted sound for (37888, river+car): Vehicle
+EPANNS Predicted sound for (37888, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (37888, phone+voice): Music
+38912 6
+EPANNS Predicted sound for (38912, tone): Sine wave
+PANNS Predicted sound for (38912, tone): Sine wave
+EPANNS Predicted sound for (38912, car): Music
+PANNS Predicted sound for (38912, car): Music
+EPANNS Predicted sound for (38912, river+car): Boat, Water vehicle
+PANNS Predicted sound for (38912, river+car): Vehicle
+EPANNS Predicted sound for (38912, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (38912, phone+voice): Music
+39936 7
+EPANNS Predicted sound for (39936, tone): Sine wave
+PANNS Predicted sound for (39936, tone): Sine wave
+EPANNS Predicted sound for (39936, car): Music
+PANNS Predicted sound for (39936, car): Music
+EPANNS Predicted sound for (39936, river+car): Boat, Water vehicle
+PANNS Predicted sound for (39936, river+car): Waves, surf
+EPANNS Predicted sound for (39936, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (39936, phone+voice): Music
+40960 8
+EPANNS Predicted sound for (40960, tone): Sine wave
+PANNS Predicted sound for (40960, tone): Sine wave
+EPANNS Predicted sound for (40960, car): Vehicle
+PANNS Predicted sound for (40960, car): Vehicle
+EPANNS Predicted sound for (40960, river+car): Vehicle
+PANNS Predicted sound for (40960, river+car): Vehicle
+EPANNS Predicted sound for (40960, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (40960, phone+voice): Telephone bell ringing
+41984 9
+EPANNS Predicted sound for (41984, tone): Sine wave
+PANNS Predicted sound for (41984, tone): Sine wave
+EPANNS Predicted sound for (41984, car): Silence
+PANNS Predicted sound for (41984, car): Vehicle
+EPANNS Predicted sound for (41984, river+car): Vehicle
+PANNS Predicted sound for (41984, river+car): Vehicle
+EPANNS Predicted sound for (41984, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (41984, phone+voice): Telephone bell ringing
+43008 10
+EPANNS Predicted sound for (43008, tone): Sine wave
+PANNS Predicted sound for (43008, tone): Sine wave
+EPANNS Predicted sound for (43008, car): Silence
+PANNS Predicted sound for (43008, car): Vehicle
+EPANNS Predicted sound for (43008, river+car): Vehicle
+PANNS Predicted sound for (43008, river+car): Vehicle
+EPANNS Predicted sound for (43008, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (43008, phone+voice): Telephone bell ringing
+44032 11
+EPANNS Predicted sound for (44032, tone): Sine wave
+PANNS Predicted sound for (44032, tone): Sine wave
+EPANNS Predicted sound for (44032, car): Vehicle
+PANNS Predicted sound for (44032, car): Vehicle
+EPANNS Predicted sound for (44032, river+car): Vehicle
+PANNS Predicted sound for (44032, river+car): Vehicle
+EPANNS Predicted sound for (44032, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (44032, phone+voice): Telephone bell ringing
+45056 12
+EPANNS Predicted sound for (45056, tone): Sine wave
+PANNS Predicted sound for (45056, tone): Sine wave
+EPANNS Predicted sound for (45056, car): Vehicle
+PANNS Predicted sound for (45056, car): Vehicle
+EPANNS Predicted sound for (45056, river+car): Vehicle
+PANNS Predicted sound for (45056, river+car): Vehicle
+EPANNS Predicted sound for (45056, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (45056, phone+voice): Telephone bell ringing
+46080 13
+EPANNS Predicted sound for (46080, tone): Sine wave
+PANNS Predicted sound for (46080, tone): Sine wave
+EPANNS Predicted sound for (46080, car): Silence
+PANNS Predicted sound for (46080, car): Vehicle
+EPANNS Predicted sound for (46080, river+car): Vehicle
+PANNS Predicted sound for (46080, river+car): Vehicle
+EPANNS Predicted sound for (46080, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (46080, phone+voice): Music
+47104 14
+EPANNS Predicted sound for (47104, tone): Sine wave
+PANNS Predicted sound for (47104, tone): Sine wave
+EPANNS Predicted sound for (47104, car): Silence
+PANNS Predicted sound for (47104, car): Vehicle
+EPANNS Predicted sound for (47104, river+car): Vehicle
+PANNS Predicted sound for (47104, river+car): Vehicle
+EPANNS Predicted sound for (47104, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (47104, phone+voice): Music
+48128 15
+EPANNS Predicted sound for (48128, tone): Sine wave
+PANNS Predicted sound for (48128, tone): Sine wave
+EPANNS Predicted sound for (48128, car): Silence
+PANNS Predicted sound for (48128, car): Vehicle
+EPANNS Predicted sound for (48128, river+car): Vehicle
+PANNS Predicted sound for (48128, river+car): Vehicle
+EPANNS Predicted sound for (48128, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (48128, phone+voice): Music
+49152 16
+EPANNS Predicted sound for (49152, tone): Sine wave
+PANNS Predicted sound for (49152, tone): Sine wave
+EPANNS Predicted sound for (49152, car): Silence
+PANNS Predicted sound for (49152, car): Vehicle
+EPANNS Predicted sound for (49152, river+car): Vehicle
+PANNS Predicted sound for (49152, river+car): Vehicle
+EPANNS Predicted sound for (49152, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (49152, phone+voice): Music
+50176 17
+EPANNS Predicted sound for (50176, tone): Sine wave
+PANNS Predicted sound for (50176, tone): Sine wave
+EPANNS Predicted sound for (50176, car): Silence
+PANNS Predicted sound for (50176, car): Vehicle
+EPANNS Predicted sound for (50176, river+car): Vehicle
+PANNS Predicted sound for (50176, river+car): Vehicle
+EPANNS Predicted sound for (50176, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (50176, phone+voice): Music
+51200 18
+EPANNS Predicted sound for (51200, tone): Sine wave
+PANNS Predicted sound for (51200, tone): Sine wave
+EPANNS Predicted sound for (51200, car): Vehicle
+PANNS Predicted sound for (51200, car): Vehicle
+EPANNS Predicted sound for (51200, river+car): Vehicle
+PANNS Predicted sound for (51200, river+car): Vehicle
+EPANNS Predicted sound for (51200, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (51200, phone+voice): Telephone bell ringing
+52224 19
+EPANNS Predicted sound for (52224, tone): Sine wave
+PANNS Predicted sound for (52224, tone): Sine wave
+EPANNS Predicted sound for (52224, car): Vehicle
+PANNS Predicted sound for (52224, car): Vehicle
+EPANNS Predicted sound for (52224, river+car): Vehicle
+PANNS Predicted sound for (52224, river+car): Vehicle
+EPANNS Predicted sound for (52224, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (52224, phone+voice): Telephone bell ringing
+53248 20
+EPANNS Predicted sound for (53248, tone): Sine wave
+PANNS Predicted sound for (53248, tone): Sine wave
+EPANNS Predicted sound for (53248, car): Vehicle
+PANNS Predicted sound for (53248, car): Vehicle
+EPANNS Predicted sound for (53248, river+car): Vehicle
+PANNS Predicted sound for (53248, river+car): Vehicle
+EPANNS Predicted sound for (53248, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (53248, phone+voice): Telephone bell ringing
+54272 21
+EPANNS Predicted sound for (54272, tone): Sine wave
+PANNS Predicted sound for (54272, tone): Sine wave
+EPANNS Predicted sound for (54272, car): Vehicle
+PANNS Predicted sound for (54272, car): Vehicle
+EPANNS Predicted sound for (54272, river+car): Vehicle
+PANNS Predicted sound for (54272, river+car): Vehicle
+EPANNS Predicted sound for (54272, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (54272, phone+voice): Telephone bell ringing
+55296 22
+EPANNS Predicted sound for (55296, tone): Sine wave
+PANNS Predicted sound for (55296, tone): Sine wave
+EPANNS Predicted sound for (55296, car): Vehicle
+PANNS Predicted sound for (55296, car): Vehicle
+EPANNS Predicted sound for (55296, river+car): Vehicle
+PANNS Predicted sound for (55296, river+car): Vehicle
+EPANNS Predicted sound for (55296, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (55296, phone+voice): Telephone bell ringing
+56320 23
+EPANNS Predicted sound for (56320, tone): Sine wave
+PANNS Predicted sound for (56320, tone): Sine wave
+EPANNS Predicted sound for (56320, car): Vehicle
+PANNS Predicted sound for (56320, car): Vehicle
+EPANNS Predicted sound for (56320, river+car): Vehicle
+PANNS Predicted sound for (56320, river+car): Vehicle
+EPANNS Predicted sound for (56320, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (56320, phone+voice): Music
+57344 24
+EPANNS Predicted sound for (57344, tone): Sine wave
+PANNS Predicted sound for (57344, tone): Sine wave
+EPANNS Predicted sound for (57344, car): Vehicle
+PANNS Predicted sound for (57344, car): Vehicle
+EPANNS Predicted sound for (57344, river+car): Vehicle
+PANNS Predicted sound for (57344, river+car): Vehicle
+EPANNS Predicted sound for (57344, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (57344, phone+voice): Music
+58368 25
+EPANNS Predicted sound for (58368, tone): Sine wave
+PANNS Predicted sound for (58368, tone): Sine wave
+EPANNS Predicted sound for (58368, car): Vehicle
+PANNS Predicted sound for (58368, car): Vehicle
+EPANNS Predicted sound for (58368, river+car): Vehicle
+PANNS Predicted sound for (58368, river+car): Vehicle
+EPANNS Predicted sound for (58368, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (58368, phone+voice): Music
+59392 26
+EPANNS Predicted sound for (59392, tone): Sine wave
+PANNS Predicted sound for (59392, tone): Sine wave
+EPANNS Predicted sound for (59392, car): Vehicle
+PANNS Predicted sound for (59392, car): Vehicle
+EPANNS Predicted sound for (59392, river+car): Vehicle
+PANNS Predicted sound for (59392, river+car): Vehicle
+EPANNS Predicted sound for (59392, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (59392, phone+voice): Music
+60416 27
+EPANNS Predicted sound for (60416, tone): Sine wave
+PANNS Predicted sound for (60416, tone): Sine wave
+EPANNS Predicted sound for (60416, car): Vehicle
+PANNS Predicted sound for (60416, car): Vehicle
+EPANNS Predicted sound for (60416, river+car): Vehicle
+PANNS Predicted sound for (60416, river+car): Vehicle
+EPANNS Predicted sound for (60416, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (60416, phone+voice): Music
+61440 28
+EPANNS Predicted sound for (61440, tone): Sine wave
+PANNS Predicted sound for (61440, tone): Sine wave
+EPANNS Predicted sound for (61440, car): Vehicle
+PANNS Predicted sound for (61440, car): Vehicle
+EPANNS Predicted sound for (61440, river+car): Vehicle
+PANNS Predicted sound for (61440, river+car): Vehicle
+EPANNS Predicted sound for (61440, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (61440, phone+voice): Telephone bell ringing
+62464 29
+EPANNS Predicted sound for (62464, tone): Sine wave
+PANNS Predicted sound for (62464, tone): Sine wave
+EPANNS Predicted sound for (62464, car): Vehicle
+PANNS Predicted sound for (62464, car): Vehicle
+EPANNS Predicted sound for (62464, river+car): Vehicle
+PANNS Predicted sound for (62464, river+car): Vehicle
+EPANNS Predicted sound for (62464, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (62464, phone+voice): Telephone bell ringing
+63488 30
+EPANNS Predicted sound for (63488, tone): Sine wave
+PANNS Predicted sound for (63488, tone): Sine wave
+EPANNS Predicted sound for (63488, car): Vehicle
+PANNS Predicted sound for (63488, car): Vehicle
+EPANNS Predicted sound for (63488, river+car): Vehicle
+PANNS Predicted sound for (63488, river+car): Vehicle
+EPANNS Predicted sound for (63488, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (63488, phone+voice): Telephone bell ringing
+64512 31
+EPANNS Predicted sound for (64512, tone): Sine wave
+PANNS Predicted sound for (64512, tone): Sine wave
+EPANNS Predicted sound for (64512, car): Vehicle
+PANNS Predicted sound for (64512, car): Vehicle
+EPANNS Predicted sound for (64512, river+car): Vehicle
+PANNS Predicted sound for (64512, river+car): Vehicle
+EPANNS Predicted sound for (64512, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (64512, phone+voice): Telephone bell ringing
+65536 32
+EPANNS Predicted sound for (65536, tone): Sine wave
+PANNS Predicted sound for (65536, tone): Sine wave
+EPANNS Predicted sound for (65536, car): Vehicle
+PANNS Predicted sound for (65536, car): Vehicle
+EPANNS Predicted sound for (65536, river+car): Vehicle
+PANNS Predicted sound for (65536, river+car): Vehicle
+EPANNS Predicted sound for (65536, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (65536, phone+voice): Telephone bell ringing
+66560 33
+EPANNS Predicted sound for (66560, tone): Sine wave
+PANNS Predicted sound for (66560, tone): Sine wave
+EPANNS Predicted sound for (66560, car): Vehicle
+PANNS Predicted sound for (66560, car): Vehicle
+EPANNS Predicted sound for (66560, river+car): Vehicle
+PANNS Predicted sound for (66560, river+car): Vehicle
+EPANNS Predicted sound for (66560, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (66560, phone+voice): Music
+67584 34
+EPANNS Predicted sound for (67584, tone): Sine wave
+PANNS Predicted sound for (67584, tone): Sine wave
+EPANNS Predicted sound for (67584, car): Vehicle
+PANNS Predicted sound for (67584, car): Vehicle
+EPANNS Predicted sound for (67584, river+car): Vehicle
+PANNS Predicted sound for (67584, river+car): Vehicle
+EPANNS Predicted sound for (67584, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (67584, phone+voice): Telephone bell ringing
+68608 35
+EPANNS Predicted sound for (68608, tone): Sine wave
+PANNS Predicted sound for (68608, tone): Sine wave
+EPANNS Predicted sound for (68608, car): Vehicle
+PANNS Predicted sound for (68608, car): Vehicle
+EPANNS Predicted sound for (68608, river+car): Vehicle
+PANNS Predicted sound for (68608, river+car): Vehicle
+EPANNS Predicted sound for (68608, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (68608, phone+voice): Music
+69632 36
+EPANNS Predicted sound for (69632, tone): Sine wave
+PANNS Predicted sound for (69632, tone): Sine wave
+EPANNS Predicted sound for (69632, car): Vehicle
+PANNS Predicted sound for (69632, car): Vehicle
+EPANNS Predicted sound for (69632, river+car): Vehicle
+PANNS Predicted sound for (69632, river+car): Vehicle
+EPANNS Predicted sound for (69632, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (69632, phone+voice): Music
+70656 37
+EPANNS Predicted sound for (70656, tone): Sine wave
+PANNS Predicted sound for (70656, tone): Sine wave
+EPANNS Predicted sound for (70656, car): Vehicle
+PANNS Predicted sound for (70656, car): Vehicle
+EPANNS Predicted sound for (70656, river+car): Vehicle
+PANNS Predicted sound for (70656, river+car): Vehicle
+EPANNS Predicted sound for (70656, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (70656, phone+voice): Music
+71680 38
+EPANNS Predicted sound for (71680, tone): Sine wave
+PANNS Predicted sound for (71680, tone): Sine wave
+EPANNS Predicted sound for (71680, car): Vehicle
+PANNS Predicted sound for (71680, car): Vehicle
+EPANNS Predicted sound for (71680, river+car): Vehicle
+PANNS Predicted sound for (71680, river+car): Vehicle
+EPANNS Predicted sound for (71680, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (71680, phone+voice): Telephone bell ringing
+72704 39
+EPANNS Predicted sound for (72704, tone): Sine wave
+PANNS Predicted sound for (72704, tone): Sine wave
+EPANNS Predicted sound for (72704, car): Vehicle
+PANNS Predicted sound for (72704, car): Vehicle
+EPANNS Predicted sound for (72704, river+car): Vehicle
+PANNS Predicted sound for (72704, river+car): Vehicle
+EPANNS Predicted sound for (72704, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (72704, phone+voice): Telephone bell ringing
+73728 40
+EPANNS Predicted sound for (73728, tone): Sine wave
+PANNS Predicted sound for (73728, tone): Sine wave
+EPANNS Predicted sound for (73728, car): Vehicle
+PANNS Predicted sound for (73728, car): Vehicle
+EPANNS Predicted sound for (73728, river+car): Vehicle
+PANNS Predicted sound for (73728, river+car): Vehicle
+EPANNS Predicted sound for (73728, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (73728, phone+voice): Telephone bell ringing
+74752 41
+EPANNS Predicted sound for (74752, tone): Sine wave
+PANNS Predicted sound for (74752, tone): Sine wave
+EPANNS Predicted sound for (74752, car): Vehicle
+PANNS Predicted sound for (74752, car): Vehicle
+EPANNS Predicted sound for (74752, river+car): Vehicle
+PANNS Predicted sound for (74752, river+car): Vehicle
+EPANNS Predicted sound for (74752, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (74752, phone+voice): Telephone bell ringing
+75776 42
+EPANNS Predicted sound for (75776, tone): Sine wave
+PANNS Predicted sound for (75776, tone): Sine wave
+EPANNS Predicted sound for (75776, car): Vehicle
+PANNS Predicted sound for (75776, car): Vehicle
+EPANNS Predicted sound for (75776, river+car): Vehicle
+PANNS Predicted sound for (75776, river+car): Vehicle
+EPANNS Predicted sound for (75776, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (75776, phone+voice): Telephone bell ringing
+76800 43
+EPANNS Predicted sound for (76800, tone): Sine wave
+PANNS Predicted sound for (76800, tone): Sine wave
+EPANNS Predicted sound for (76800, car): Vehicle
+PANNS Predicted sound for (76800, car): Vehicle
+EPANNS Predicted sound for (76800, river+car): Vehicle
+PANNS Predicted sound for (76800, river+car): Vehicle
+EPANNS Predicted sound for (76800, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (76800, phone+voice): Telephone bell ringing
+77824 44
+EPANNS Predicted sound for (77824, tone): Sine wave
+PANNS Predicted sound for (77824, tone): Sine wave
+EPANNS Predicted sound for (77824, car): Vehicle
+PANNS Predicted sound for (77824, car): Vehicle
+EPANNS Predicted sound for (77824, river+car): Vehicle
+PANNS Predicted sound for (77824, river+car): Vehicle
+EPANNS Predicted sound for (77824, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (77824, phone+voice): Telephone bell ringing
+78848 45
+EPANNS Predicted sound for (78848, tone): Sine wave
+PANNS Predicted sound for (78848, tone): Sine wave
+EPANNS Predicted sound for (78848, car): Vehicle
+PANNS Predicted sound for (78848, car): Vehicle
+EPANNS Predicted sound for (78848, river+car): Vehicle
+PANNS Predicted sound for (78848, river+car): Vehicle
+EPANNS Predicted sound for (78848, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (78848, phone+voice): Telephone bell ringing
+79872 46
+EPANNS Predicted sound for (79872, tone): Sine wave
+PANNS Predicted sound for (79872, tone): Sine wave
+EPANNS Predicted sound for (79872, car): Vehicle
+PANNS Predicted sound for (79872, car): Vehicle
+EPANNS Predicted sound for (79872, river+car): Vehicle
+PANNS Predicted sound for (79872, river+car): Vehicle
+EPANNS Predicted sound for (79872, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (79872, phone+voice): Telephone bell ringing
+80896 47
+EPANNS Predicted sound for (80896, tone): Sine wave
+PANNS Predicted sound for (80896, tone): Sine wave
+EPANNS Predicted sound for (80896, car): Vehicle
+PANNS Predicted sound for (80896, car): Vehicle
+EPANNS Predicted sound for (80896, river+car): Vehicle
+PANNS Predicted sound for (80896, river+car): Vehicle
+EPANNS Predicted sound for (80896, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (80896, phone+voice): Telephone bell ringing
+81920 48
+EPANNS Predicted sound for (81920, tone): Sine wave
+PANNS Predicted sound for (81920, tone): Sine wave
+EPANNS Predicted sound for (81920, car): Vehicle
+PANNS Predicted sound for (81920, car): Vehicle
+EPANNS Predicted sound for (81920, river+car): Vehicle
+PANNS Predicted sound for (81920, river+car): Vehicle
+EPANNS Predicted sound for (81920, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (81920, phone+voice): Telephone bell ringing
+82944 49
+EPANNS Predicted sound for (82944, tone): Sine wave
+PANNS Predicted sound for (82944, tone): Sine wave
+EPANNS Predicted sound for (82944, car): Vehicle
+PANNS Predicted sound for (82944, car): Vehicle
+EPANNS Predicted sound for (82944, river+car): Vehicle
+PANNS Predicted sound for (82944, river+car): Vehicle
+EPANNS Predicted sound for (82944, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (82944, phone+voice): Telephone bell ringing
+83968 50
+EPANNS Predicted sound for (83968, tone): Sine wave
+PANNS Predicted sound for (83968, tone): Sine wave
+EPANNS Predicted sound for (83968, car): Vehicle
+PANNS Predicted sound for (83968, car): Vehicle
+EPANNS Predicted sound for (83968, river+car): Vehicle
+PANNS Predicted sound for (83968, river+car): Vehicle
+EPANNS Predicted sound for (83968, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (83968, phone+voice): Telephone bell ringing
+84992 51
+EPANNS Predicted sound for (84992, tone): Sine wave
+PANNS Predicted sound for (84992, tone): Sine wave
+EPANNS Predicted sound for (84992, car): Vehicle
+PANNS Predicted sound for (84992, car): Vehicle
+EPANNS Predicted sound for (84992, river+car): Vehicle
+PANNS Predicted sound for (84992, river+car): Vehicle
+EPANNS Predicted sound for (84992, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (84992, phone+voice): Telephone bell ringing
+86016 52
+EPANNS Predicted sound for (86016, tone): Sine wave
+PANNS Predicted sound for (86016, tone): Sine wave
+EPANNS Predicted sound for (86016, car): Vehicle
+PANNS Predicted sound for (86016, car): Vehicle
+EPANNS Predicted sound for (86016, river+car): Vehicle
+PANNS Predicted sound for (86016, river+car): Vehicle
+EPANNS Predicted sound for (86016, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (86016, phone+voice): Telephone bell ringing
+87040 53
+EPANNS Predicted sound for (87040, tone): Sine wave
+PANNS Predicted sound for (87040, tone): Sine wave
+EPANNS Predicted sound for (87040, car): Vehicle
+PANNS Predicted sound for (87040, car): Vehicle
+EPANNS Predicted sound for (87040, river+car): Vehicle
+PANNS Predicted sound for (87040, river+car): Vehicle
+EPANNS Predicted sound for (87040, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (87040, phone+voice): Telephone bell ringing
+88064 54
+EPANNS Predicted sound for (88064, tone): Sine wave
+PANNS Predicted sound for (88064, tone): Sine wave
+EPANNS Predicted sound for (88064, car): Vehicle
+PANNS Predicted sound for (88064, car): Vehicle
+EPANNS Predicted sound for (88064, river+car): Vehicle
+PANNS Predicted sound for (88064, river+car): Vehicle
+EPANNS Predicted sound for (88064, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (88064, phone+voice): Telephone bell ringing
+89088 55
+EPANNS Predicted sound for (89088, tone): Sine wave
+PANNS Predicted sound for (89088, tone): Sine wave
+EPANNS Predicted sound for (89088, car): Vehicle
+PANNS Predicted sound for (89088, car): Vehicle
+EPANNS Predicted sound for (89088, river+car): Vehicle
+PANNS Predicted sound for (89088, river+car): Vehicle
+EPANNS Predicted sound for (89088, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (89088, phone+voice): Telephone bell ringing
+90112 56
+EPANNS Predicted sound for (90112, tone): Sine wave
+PANNS Predicted sound for (90112, tone): Sine wave
+EPANNS Predicted sound for (90112, car): Vehicle
+PANNS Predicted sound for (90112, car): Vehicle
+EPANNS Predicted sound for (90112, river+car): Vehicle
+PANNS Predicted sound for (90112, river+car): Vehicle
+EPANNS Predicted sound for (90112, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (90112, phone+voice): Telephone bell ringing
+91136 57
+EPANNS Predicted sound for (91136, tone): Sine wave
+PANNS Predicted sound for (91136, tone): Sine wave
+EPANNS Predicted sound for (91136, car): Vehicle
+PANNS Predicted sound for (91136, car): Vehicle
+EPANNS Predicted sound for (91136, river+car): Vehicle
+PANNS Predicted sound for (91136, river+car): Vehicle
+EPANNS Predicted sound for (91136, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (91136, phone+voice): Telephone bell ringing
+92160 58
+EPANNS Predicted sound for (92160, tone): Sine wave
+PANNS Predicted sound for (92160, tone): Sine wave
+EPANNS Predicted sound for (92160, car): Vehicle
+PANNS Predicted sound for (92160, car): Vehicle
+EPANNS Predicted sound for (92160, river+car): Vehicle
+PANNS Predicted sound for (92160, river+car): Vehicle
+EPANNS Predicted sound for (92160, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (92160, phone+voice): Telephone bell ringing
+93184 59
+EPANNS Predicted sound for (93184, tone): Sine wave
+PANNS Predicted sound for (93184, tone): Sine wave
+EPANNS Predicted sound for (93184, car): Vehicle
+PANNS Predicted sound for (93184, car): Vehicle
+EPANNS Predicted sound for (93184, river+car): Vehicle
+PANNS Predicted sound for (93184, river+car): Vehicle
+EPANNS Predicted sound for (93184, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (93184, phone+voice): Telephone bell ringing
+94208 60
+EPANNS Predicted sound for (94208, tone): Sine wave
+PANNS Predicted sound for (94208, tone): Sine wave
+EPANNS Predicted sound for (94208, car): Vehicle
+PANNS Predicted sound for (94208, car): Vehicle
+EPANNS Predicted sound for (94208, river+car): Vehicle
+PANNS Predicted sound for (94208, river+car): Vehicle
+EPANNS Predicted sound for (94208, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (94208, phone+voice): Telephone bell ringing
+95232 61
+EPANNS Predicted sound for (95232, tone): Sine wave
+PANNS Predicted sound for (95232, tone): Sine wave
+EPANNS Predicted sound for (95232, car): Vehicle
+PANNS Predicted sound for (95232, car): Vehicle
+EPANNS Predicted sound for (95232, river+car): Vehicle
+PANNS Predicted sound for (95232, river+car): Vehicle
+EPANNS Predicted sound for (95232, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (95232, phone+voice): Telephone bell ringing
+96256 62
+EPANNS Predicted sound for (96256, tone): Sine wave
+PANNS Predicted sound for (96256, tone): Sine wave
+EPANNS Predicted sound for (96256, car): Vehicle
+PANNS Predicted sound for (96256, car): Vehicle
+EPANNS Predicted sound for (96256, river+car): Vehicle
+PANNS Predicted sound for (96256, river+car): Vehicle
+EPANNS Predicted sound for (96256, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (96256, phone+voice): Telephone bell ringing
+97280 63
+EPANNS Predicted sound for (97280, tone): Sine wave
+PANNS Predicted sound for (97280, tone): Sine wave
+EPANNS Predicted sound for (97280, car): Vehicle
+PANNS Predicted sound for (97280, car): Vehicle
+EPANNS Predicted sound for (97280, river+car): Vehicle
+PANNS Predicted sound for (97280, river+car): Vehicle
+EPANNS Predicted sound for (97280, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (97280, phone+voice): Telephone bell ringing
+98304 64
+EPANNS Predicted sound for (98304, tone): Sine wave
+PANNS Predicted sound for (98304, tone): Sine wave
+EPANNS Predicted sound for (98304, car): Vehicle
+PANNS Predicted sound for (98304, car): Vehicle
+EPANNS Predicted sound for (98304, river+car): Vehicle
+PANNS Predicted sound for (98304, river+car): Vehicle
+EPANNS Predicted sound for (98304, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (98304, phone+voice): Telephone bell ringing
+99328 65
+EPANNS Predicted sound for (99328, tone): Sine wave
+PANNS Predicted sound for (99328, tone): Sine wave
+EPANNS Predicted sound for (99328, car): Vehicle
+PANNS Predicted sound for (99328, car): Vehicle
+EPANNS Predicted sound for (99328, river+car): Vehicle
+PANNS Predicted sound for (99328, river+car): Vehicle
+EPANNS Predicted sound for (99328, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (99328, phone+voice): Telephone bell ringing
+100352 66
+EPANNS Predicted sound for (100352, tone): Sine wave
+PANNS Predicted sound for (100352, tone): Sine wave
+EPANNS Predicted sound for (100352, car): Vehicle
+PANNS Predicted sound for (100352, car): Vehicle
+EPANNS Predicted sound for (100352, river+car): Vehicle
+PANNS Predicted sound for (100352, river+car): Vehicle
+EPANNS Predicted sound for (100352, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (100352, phone+voice): Telephone bell ringing
+101376 67
+EPANNS Predicted sound for (101376, tone): Sine wave
+PANNS Predicted sound for (101376, tone): Sine wave
+EPANNS Predicted sound for (101376, car): Vehicle
+PANNS Predicted sound for (101376, car): Vehicle
+EPANNS Predicted sound for (101376, river+car): Vehicle
+PANNS Predicted sound for (101376, river+car): Vehicle
+EPANNS Predicted sound for (101376, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (101376, phone+voice): Telephone bell ringing
+102400 68
+EPANNS Predicted sound for (102400, tone): Sine wave
+PANNS Predicted sound for (102400, tone): Sine wave
+EPANNS Predicted sound for (102400, car): Vehicle
+PANNS Predicted sound for (102400, car): Vehicle
+EPANNS Predicted sound for (102400, river+car): Vehicle
+PANNS Predicted sound for (102400, river+car): Waves, surf
+EPANNS Predicted sound for (102400, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (102400, phone+voice): Telephone bell ringing
+103424 69
+EPANNS Predicted sound for (103424, tone): Sine wave
+PANNS Predicted sound for (103424, tone): Sine wave
+EPANNS Predicted sound for (103424, car): Vehicle
+PANNS Predicted sound for (103424, car): Vehicle
+EPANNS Predicted sound for (103424, river+car): Vehicle
+PANNS Predicted sound for (103424, river+car): Waves, surf
+EPANNS Predicted sound for (103424, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (103424, phone+voice): Telephone bell ringing
+104448 70
+EPANNS Predicted sound for (104448, tone): Sine wave
+PANNS Predicted sound for (104448, tone): Sine wave
+EPANNS Predicted sound for (104448, car): Vehicle
+PANNS Predicted sound for (104448, car): Vehicle
+EPANNS Predicted sound for (104448, river+car): Vehicle
+PANNS Predicted sound for (104448, river+car): Waves, surf
+EPANNS Predicted sound for (104448, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (104448, phone+voice): Telephone bell ringing
+105472 71
+EPANNS Predicted sound for (105472, tone): Sine wave
+PANNS Predicted sound for (105472, tone): Sine wave
+EPANNS Predicted sound for (105472, car): Vehicle
+PANNS Predicted sound for (105472, car): Vehicle
+EPANNS Predicted sound for (105472, river+car): Vehicle
+PANNS Predicted sound for (105472, river+car): Waves, surf
+EPANNS Predicted sound for (105472, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (105472, phone+voice): Telephone bell ringing
+106496 72
+EPANNS Predicted sound for (106496, tone): Sine wave
+PANNS Predicted sound for (106496, tone): Sine wave
+EPANNS Predicted sound for (106496, car): Vehicle
+PANNS Predicted sound for (106496, car): Vehicle
+EPANNS Predicted sound for (106496, river+car): Vehicle
+PANNS Predicted sound for (106496, river+car): Waves, surf
+EPANNS Predicted sound for (106496, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (106496, phone+voice): Telephone bell ringing
+107520 73
+EPANNS Predicted sound for (107520, tone): Sine wave
+PANNS Predicted sound for (107520, tone): Sine wave
+EPANNS Predicted sound for (107520, car): Vehicle
+PANNS Predicted sound for (107520, car): Vehicle
+EPANNS Predicted sound for (107520, river+car): Vehicle
+PANNS Predicted sound for (107520, river+car): Waves, surf
+EPANNS Predicted sound for (107520, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (107520, phone+voice): Telephone bell ringing
+108544 74
+EPANNS Predicted sound for (108544, tone): Sine wave
+PANNS Predicted sound for (108544, tone): Sine wave
+EPANNS Predicted sound for (108544, car): Vehicle
+PANNS Predicted sound for (108544, car): Vehicle
+EPANNS Predicted sound for (108544, river+car): Vehicle
+PANNS Predicted sound for (108544, river+car): Waves, surf
+EPANNS Predicted sound for (108544, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (108544, phone+voice): Telephone bell ringing
+109568 75
+EPANNS Predicted sound for (109568, tone): Sine wave
+PANNS Predicted sound for (109568, tone): Sine wave
+EPANNS Predicted sound for (109568, car): Vehicle
+PANNS Predicted sound for (109568, car): Vehicle
+EPANNS Predicted sound for (109568, river+car): Vehicle
+PANNS Predicted sound for (109568, river+car): Waves, surf
+EPANNS Predicted sound for (109568, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (109568, phone+voice): Telephone bell ringing
+110592 76
+EPANNS Predicted sound for (110592, tone): Sine wave
+PANNS Predicted sound for (110592, tone): Sine wave
+EPANNS Predicted sound for (110592, car): Vehicle
+PANNS Predicted sound for (110592, car): Vehicle
+EPANNS Predicted sound for (110592, river+car): Vehicle
+PANNS Predicted sound for (110592, river+car): Waves, surf
+EPANNS Predicted sound for (110592, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (110592, phone+voice): Telephone bell ringing
+111616 77
+EPANNS Predicted sound for (111616, tone): Sine wave
+PANNS Predicted sound for (111616, tone): Sine wave
+EPANNS Predicted sound for (111616, car): Vehicle
+PANNS Predicted sound for (111616, car): Vehicle
+EPANNS Predicted sound for (111616, river+car): Vehicle
+PANNS Predicted sound for (111616, river+car): Waves, surf
+EPANNS Predicted sound for (111616, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (111616, phone+voice): Telephone bell ringing
+112640 78
+EPANNS Predicted sound for (112640, tone): Sine wave
+PANNS Predicted sound for (112640, tone): Sine wave
+EPANNS Predicted sound for (112640, car): Vehicle
+PANNS Predicted sound for (112640, car): Vehicle
+EPANNS Predicted sound for (112640, river+car): Vehicle
+PANNS Predicted sound for (112640, river+car): Vehicle
+EPANNS Predicted sound for (112640, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (112640, phone+voice): Telephone bell ringing
+113664 79
+EPANNS Predicted sound for (113664, tone): Sine wave
+PANNS Predicted sound for (113664, tone): Sine wave
+EPANNS Predicted sound for (113664, car): Vehicle
+PANNS Predicted sound for (113664, car): Vehicle
+EPANNS Predicted sound for (113664, river+car): Vehicle
+PANNS Predicted sound for (113664, river+car): Waves, surf
+EPANNS Predicted sound for (113664, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (113664, phone+voice): Telephone bell ringing
+114688 80
+EPANNS Predicted sound for (114688, tone): Sine wave
+PANNS Predicted sound for (114688, tone): Sine wave
+EPANNS Predicted sound for (114688, car): Vehicle
+PANNS Predicted sound for (114688, car): Vehicle
+EPANNS Predicted sound for (114688, river+car): Vehicle
+PANNS Predicted sound for (114688, river+car): Waves, surf
+EPANNS Predicted sound for (114688, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (114688, phone+voice): Telephone bell ringing
+115712 81
+EPANNS Predicted sound for (115712, tone): Sine wave
+PANNS Predicted sound for (115712, tone): Sine wave
+EPANNS Predicted sound for (115712, car): Vehicle
+PANNS Predicted sound for (115712, car): Vehicle
+EPANNS Predicted sound for (115712, river+car): Vehicle
+PANNS Predicted sound for (115712, river+car): Waves, surf
+EPANNS Predicted sound for (115712, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (115712, phone+voice): Telephone bell ringing
+116736 82
+EPANNS Predicted sound for (116736, tone): Sine wave
+PANNS Predicted sound for (116736, tone): Sine wave
+EPANNS Predicted sound for (116736, car): Vehicle
+PANNS Predicted sound for (116736, car): Vehicle
+EPANNS Predicted sound for (116736, river+car): Vehicle
+PANNS Predicted sound for (116736, river+car): Waves, surf
+EPANNS Predicted sound for (116736, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (116736, phone+voice): Telephone bell ringing
+117760 83
+EPANNS Predicted sound for (117760, tone): Sine wave
+PANNS Predicted sound for (117760, tone): Sine wave
+EPANNS Predicted sound for (117760, car): Vehicle
+PANNS Predicted sound for (117760, car): Vehicle
+EPANNS Predicted sound for (117760, river+car): Vehicle
+PANNS Predicted sound for (117760, river+car): Vehicle
+EPANNS Predicted sound for (117760, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (117760, phone+voice): Telephone bell ringing
+118784 84
+EPANNS Predicted sound for (118784, tone): Sine wave
+PANNS Predicted sound for (118784, tone): Sine wave
+EPANNS Predicted sound for (118784, car): Vehicle
+PANNS Predicted sound for (118784, car): Vehicle
+EPANNS Predicted sound for (118784, river+car): Vehicle
+PANNS Predicted sound for (118784, river+car): Vehicle
+EPANNS Predicted sound for (118784, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (118784, phone+voice): Telephone bell ringing
+119808 85
+EPANNS Predicted sound for (119808, tone): Sine wave
+PANNS Predicted sound for (119808, tone): Sine wave
+EPANNS Predicted sound for (119808, car): Vehicle
+PANNS Predicted sound for (119808, car): Vehicle
+EPANNS Predicted sound for (119808, river+car): Vehicle
+PANNS Predicted sound for (119808, river+car): Waves, surf
+EPANNS Predicted sound for (119808, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (119808, phone+voice): Telephone bell ringing
+120832 86
+EPANNS Predicted sound for (120832, tone): Sine wave
+PANNS Predicted sound for (120832, tone): Sine wave
+EPANNS Predicted sound for (120832, car): Vehicle
+PANNS Predicted sound for (120832, car): Vehicle
+EPANNS Predicted sound for (120832, river+car): Vehicle
+PANNS Predicted sound for (120832, river+car): Vehicle
+EPANNS Predicted sound for (120832, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (120832, phone+voice): Telephone bell ringing
+121856 87
+EPANNS Predicted sound for (121856, tone): Sine wave
+PANNS Predicted sound for (121856, tone): Sine wave
+EPANNS Predicted sound for (121856, car): Vehicle
+PANNS Predicted sound for (121856, car): Vehicle
+EPANNS Predicted sound for (121856, river+car): Vehicle
+PANNS Predicted sound for (121856, river+car): Waves, surf
+EPANNS Predicted sound for (121856, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (121856, phone+voice): Telephone bell ringing
+122880 88
+EPANNS Predicted sound for (122880, tone): Sine wave
+PANNS Predicted sound for (122880, tone): Sine wave
+EPANNS Predicted sound for (122880, car): Vehicle
+PANNS Predicted sound for (122880, car): Vehicle
+EPANNS Predicted sound for (122880, river+car): Vehicle
+PANNS Predicted sound for (122880, river+car): Vehicle
+EPANNS Predicted sound for (122880, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (122880, phone+voice): Telephone bell ringing
+123904 89
+EPANNS Predicted sound for (123904, tone): Sine wave
+PANNS Predicted sound for (123904, tone): Sine wave
+EPANNS Predicted sound for (123904, car): Vehicle
+PANNS Predicted sound for (123904, car): Vehicle
+EPANNS Predicted sound for (123904, river+car): Vehicle
+PANNS Predicted sound for (123904, river+car): Vehicle
+EPANNS Predicted sound for (123904, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (123904, phone+voice): Telephone bell ringing
+124928 90
+EPANNS Predicted sound for (124928, tone): Sine wave
+PANNS Predicted sound for (124928, tone): Sine wave
+EPANNS Predicted sound for (124928, car): Vehicle
+PANNS Predicted sound for (124928, car): Vehicle
+EPANNS Predicted sound for (124928, river+car): Vehicle
+PANNS Predicted sound for (124928, river+car): Vehicle
+EPANNS Predicted sound for (124928, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (124928, phone+voice): Telephone bell ringing
+125952 91
+EPANNS Predicted sound for (125952, tone): Sine wave
+PANNS Predicted sound for (125952, tone): Sine wave
+EPANNS Predicted sound for (125952, car): Vehicle
+PANNS Predicted sound for (125952, car): Vehicle
+EPANNS Predicted sound for (125952, river+car): Vehicle
+PANNS Predicted sound for (125952, river+car): Vehicle
+EPANNS Predicted sound for (125952, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (125952, phone+voice): Telephone bell ringing
+126976 92
+EPANNS Predicted sound for (126976, tone): Sine wave
+PANNS Predicted sound for (126976, tone): Sine wave
+EPANNS Predicted sound for (126976, car): Vehicle
+PANNS Predicted sound for (126976, car): Vehicle
+EPANNS Predicted sound for (126976, river+car): Vehicle
+PANNS Predicted sound for (126976, river+car): Vehicle
+EPANNS Predicted sound for (126976, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (126976, phone+voice): Telephone bell ringing
+128000 93
+EPANNS Predicted sound for (128000, tone): Sine wave
+PANNS Predicted sound for (128000, tone): Sine wave
+EPANNS Predicted sound for (128000, car): Vehicle
+PANNS Predicted sound for (128000, car): Vehicle
+EPANNS Predicted sound for (128000, river+car): Vehicle
+PANNS Predicted sound for (128000, river+car): Vehicle
+EPANNS Predicted sound for (128000, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (128000, phone+voice): Telephone bell ringing
+129024 94
+EPANNS Predicted sound for (129024, tone): Sine wave
+PANNS Predicted sound for (129024, tone): Sine wave
+EPANNS Predicted sound for (129024, car): Vehicle
+PANNS Predicted sound for (129024, car): Vehicle
+EPANNS Predicted sound for (129024, river+car): Vehicle
+PANNS Predicted sound for (129024, river+car): Vehicle
+EPANNS Predicted sound for (129024, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (129024, phone+voice): Telephone bell ringing
+130048 95
+EPANNS Predicted sound for (130048, tone): Sine wave
+PANNS Predicted sound for (130048, tone): Sine wave
+EPANNS Predicted sound for (130048, car): Vehicle
+PANNS Predicted sound for (130048, car): Vehicle
+EPANNS Predicted sound for (130048, river+car): Vehicle
+PANNS Predicted sound for (130048, river+car): Vehicle
+EPANNS Predicted sound for (130048, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (130048, phone+voice): Telephone bell ringing
+131072 96
+EPANNS Predicted sound for (131072, tone): Sine wave
+PANNS Predicted sound for (131072, tone): Sine wave
+EPANNS Predicted sound for (131072, car): Vehicle
+PANNS Predicted sound for (131072, car): Vehicle
+EPANNS Predicted sound for (131072, river+car): Vehicle
+PANNS Predicted sound for (131072, river+car): Vehicle
+EPANNS Predicted sound for (131072, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (131072, phone+voice): Telephone bell ringing
+132096 97
+EPANNS Predicted sound for (132096, tone): Sine wave
+PANNS Predicted sound for (132096, tone): Sine wave
+EPANNS Predicted sound for (132096, car): Vehicle
+PANNS Predicted sound for (132096, car): Vehicle
+EPANNS Predicted sound for (132096, river+car): Vehicle
+PANNS Predicted sound for (132096, river+car): Vehicle
+EPANNS Predicted sound for (132096, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (132096, phone+voice): Telephone bell ringing
+133120 98
+EPANNS Predicted sound for (133120, tone): Sine wave
+PANNS Predicted sound for (133120, tone): Sine wave
+EPANNS Predicted sound for (133120, car): Vehicle
+PANNS Predicted sound for (133120, car): Vehicle
+EPANNS Predicted sound for (133120, river+car): Vehicle
+PANNS Predicted sound for (133120, river+car): Vehicle
+EPANNS Predicted sound for (133120, phone+voice): Speech
+PANNS Predicted sound for (133120, phone+voice): Speech
+134144 99
+EPANNS Predicted sound for (134144, tone): Sine wave
+PANNS Predicted sound for (134144, tone): Sine wave
+EPANNS Predicted sound for (134144, car): Vehicle
+PANNS Predicted sound for (134144, car): Vehicle
+EPANNS Predicted sound for (134144, river+car): Vehicle
+PANNS Predicted sound for (134144, river+car): Vehicle
+EPANNS Predicted sound for (134144, phone+voice): Speech
+PANNS Predicted sound for (134144, phone+voice): SpeechEPANNS Predicted sound for (32768, tone): Sine wave
+PANNS Predicted sound for (32768, tone): Sine wave
+EPANNS Predicted sound for (32768, car): Music
+PANNS Predicted sound for (32768, car): Music
+EPANNS Predicted sound for (32768, river+car): Boat, Water vehicle
+PANNS Predicted sound for (32768, river+car): Waves, surf
+EPANNS Predicted sound for (32768, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (32768, phone+voice): Telephone bell ringing
+33792 1
+EPANNS Predicted sound for (33792, tone): Sine wave
+PANNS Predicted sound for (33792, tone): Sine wave
+EPANNS Predicted sound for (33792, car): Music
+PANNS Predicted sound for (33792, car): Music
+EPANNS Predicted sound for (33792, river+car): Boat, Water vehicle
+PANNS Predicted sound for (33792, river+car): Waves, surf
+EPANNS Predicted sound for (33792, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (33792, phone+voice): Telephone bell ringing
+34816 2
+EPANNS Predicted sound for (34816, tone): Sine wave
+PANNS Predicted sound for (34816, tone): Sine wave
+EPANNS Predicted sound for (34816, car): Music
+PANNS Predicted sound for (34816, car): Music
+EPANNS Predicted sound for (34816, river+car): Boat, Water vehicle
+PANNS Predicted sound for (34816, river+car): Waves, surf
+EPANNS Predicted sound for (34816, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (34816, phone+voice): Telephone bell ringing
+35840 3
+EPANNS Predicted sound for (35840, tone): Sine wave
+PANNS Predicted sound for (35840, tone): Sine wave
+EPANNS Predicted sound for (35840, car): Music
+PANNS Predicted sound for (35840, car): Music
+EPANNS Predicted sound for (35840, river+car): Boat, Water vehicle
+PANNS Predicted sound for (35840, river+car): Vehicle
+EPANNS Predicted sound for (35840, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (35840, phone+voice): Music
+36864 4
+EPANNS Predicted sound for (36864, tone): Sine wave
+PANNS Predicted sound for (36864, tone): Sine wave
+EPANNS Predicted sound for (36864, car): Music
+PANNS Predicted sound for (36864, car): Music
+EPANNS Predicted sound for (36864, river+car): Boat, Water vehicle
+PANNS Predicted sound for (36864, river+car): Vehicle
+EPANNS Predicted sound for (36864, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (36864, phone+voice): Music
+37888 5
+EPANNS Predicted sound for (37888, tone): Sine wave
+PANNS Predicted sound for (37888, tone): Sine wave
+EPANNS Predicted sound for (37888, car): Music
+PANNS Predicted sound for (37888, car): Music
+EPANNS Predicted sound for (37888, river+car): Boat, Water vehicle
+PANNS Predicted sound for (37888, river+car): Vehicle
+EPANNS Predicted sound for (37888, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (37888, phone+voice): Music
+38912 6
+EPANNS Predicted sound for (38912, tone): Sine wave
+PANNS Predicted sound for (38912, tone): Sine wave
+EPANNS Predicted sound for (38912, car): Music
+PANNS Predicted sound for (38912, car): Music
+EPANNS Predicted sound for (38912, river+car): Boat, Water vehicle
+PANNS Predicted sound for (38912, river+car): Vehicle
+EPANNS Predicted sound for (38912, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (38912, phone+voice): Music
+39936 7
+EPANNS Predicted sound for (39936, tone): Sine wave
+PANNS Predicted sound for (39936, tone): Sine wave
+EPANNS Predicted sound for (39936, car): Music
+PANNS Predicted sound for (39936, car): Music
+EPANNS Predicted sound for (39936, river+car): Boat, Water vehicle
+PANNS Predicted sound for (39936, river+car): Waves, surf
+EPANNS Predicted sound for (39936, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (39936, phone+voice): Music
+40960 8
+EPANNS Predicted sound for (40960, tone): Sine wave
+PANNS Predicted sound for (40960, tone): Sine wave
+EPANNS Predicted sound for (40960, car): Vehicle
+PANNS Predicted sound for (40960, car): Vehicle
+EPANNS Predicted sound for (40960, river+car): Vehicle
+PANNS Predicted sound for (40960, river+car): Vehicle
+EPANNS Predicted sound for (40960, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (40960, phone+voice): Telephone bell ringing
+41984 9
+EPANNS Predicted sound for (41984, tone): Sine wave
+PANNS Predicted sound for (41984, tone): Sine wave
+EPANNS Predicted sound for (41984, car): Silence
+PANNS Predicted sound for (41984, car): Vehicle
+EPANNS Predicted sound for (41984, river+car): Vehicle
+PANNS Predicted sound for (41984, river+car): Vehicle
+EPANNS Predicted sound for (41984, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (41984, phone+voice): Telephone bell ringing
+43008 10
+EPANNS Predicted sound for (43008, tone): Sine wave
+PANNS Predicted sound for (43008, tone): Sine wave
+EPANNS Predicted sound for (43008, car): Silence
+PANNS Predicted sound for (43008, car): Vehicle
+EPANNS Predicted sound for (43008, river+car): Vehicle
+PANNS Predicted sound for (43008, river+car): Vehicle
+EPANNS Predicted sound for (43008, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (43008, phone+voice): Telephone bell ringing
+44032 11
+EPANNS Predicted sound for (44032, tone): Sine wave
+PANNS Predicted sound for (44032, tone): Sine wave
+EPANNS Predicted sound for (44032, car): Vehicle
+PANNS Predicted sound for (44032, car): Vehicle
+EPANNS Predicted sound for (44032, river+car): Vehicle
+PANNS Predicted sound for (44032, river+car): Vehicle
+EPANNS Predicted sound for (44032, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (44032, phone+voice): Telephone bell ringing
+45056 12
+EPANNS Predicted sound for (45056, tone): Sine wave
+PANNS Predicted sound for (45056, tone): Sine wave
+EPANNS Predicted sound for (45056, car): Vehicle
+PANNS Predicted sound for (45056, car): Vehicle
+EPANNS Predicted sound for (45056, river+car): Vehicle
+PANNS Predicted sound for (45056, river+car): Vehicle
+EPANNS Predicted sound for (45056, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (45056, phone+voice): Telephone bell ringing
+46080 13
+EPANNS Predicted sound for (46080, tone): Sine wave
+PANNS Predicted sound for (46080, tone): Sine wave
+EPANNS Predicted sound for (46080, car): Silence
+PANNS Predicted sound for (46080, car): Vehicle
+EPANNS Predicted sound for (46080, river+car): Vehicle
+PANNS Predicted sound for (46080, river+car): Vehicle
+EPANNS Predicted sound for (46080, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (46080, phone+voice): Music
+47104 14
+EPANNS Predicted sound for (47104, tone): Sine wave
+PANNS Predicted sound for (47104, tone): Sine wave
+EPANNS Predicted sound for (47104, car): Silence
+PANNS Predicted sound for (47104, car): Vehicle
+EPANNS Predicted sound for (47104, river+car): Vehicle
+PANNS Predicted sound for (47104, river+car): Vehicle
+EPANNS Predicted sound for (47104, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (47104, phone+voice): Music
+48128 15
+EPANNS Predicted sound for (48128, tone): Sine wave
+PANNS Predicted sound for (48128, tone): Sine wave
+EPANNS Predicted sound for (48128, car): Silence
+PANNS Predicted sound for (48128, car): Vehicle
+EPANNS Predicted sound for (48128, river+car): Vehicle
+PANNS Predicted sound for (48128, river+car): Vehicle
+EPANNS Predicted sound for (48128, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (48128, phone+voice): Music
+49152 16
+EPANNS Predicted sound for (49152, tone): Sine wave
+PANNS Predicted sound for (49152, tone): Sine wave
+EPANNS Predicted sound for (49152, car): Silence
+PANNS Predicted sound for (49152, car): Vehicle
+EPANNS Predicted sound for (49152, river+car): Vehicle
+PANNS Predicted sound for (49152, river+car): Vehicle
+EPANNS Predicted sound for (49152, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (49152, phone+voice): Music
+50176 17
+EPANNS Predicted sound for (50176, tone): Sine wave
+PANNS Predicted sound for (50176, tone): Sine wave
+EPANNS Predicted sound for (50176, car): Silence
+PANNS Predicted sound for (50176, car): Vehicle
+EPANNS Predicted sound for (50176, river+car): Vehicle
+PANNS Predicted sound for (50176, river+car): Vehicle
+EPANNS Predicted sound for (50176, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (50176, phone+voice): Music
+51200 18
+EPANNS Predicted sound for (51200, tone): Sine wave
+PANNS Predicted sound for (51200, tone): Sine wave
+EPANNS Predicted sound for (51200, car): Vehicle
+PANNS Predicted sound for (51200, car): Vehicle
+EPANNS Predicted sound for (51200, river+car): Vehicle
+PANNS Predicted sound for (51200, river+car): Vehicle
+EPANNS Predicted sound for (51200, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (51200, phone+voice): Telephone bell ringing
+52224 19
+EPANNS Predicted sound for (52224, tone): Sine wave
+PANNS Predicted sound for (52224, tone): Sine wave
+EPANNS Predicted sound for (52224, car): Vehicle
+PANNS Predicted sound for (52224, car): Vehicle
+EPANNS Predicted sound for (52224, river+car): Vehicle
+PANNS Predicted sound for (52224, river+car): Vehicle
+EPANNS Predicted sound for (52224, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (52224, phone+voice): Telephone bell ringing
+53248 20
+EPANNS Predicted sound for (53248, tone): Sine wave
+PANNS Predicted sound for (53248, tone): Sine wave
+EPANNS Predicted sound for (53248, car): Vehicle
+PANNS Predicted sound for (53248, car): Vehicle
+EPANNS Predicted sound for (53248, river+car): Vehicle
+PANNS Predicted sound for (53248, river+car): Vehicle
+EPANNS Predicted sound for (53248, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (53248, phone+voice): Telephone bell ringing
+54272 21
+EPANNS Predicted sound for (54272, tone): Sine wave
+PANNS Predicted sound for (54272, tone): Sine wave
+EPANNS Predicted sound for (54272, car): Vehicle
+PANNS Predicted sound for (54272, car): Vehicle
+EPANNS Predicted sound for (54272, river+car): Vehicle
+PANNS Predicted sound for (54272, river+car): Vehicle
+EPANNS Predicted sound for (54272, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (54272, phone+voice): Telephone bell ringing
+55296 22
+EPANNS Predicted sound for (55296, tone): Sine wave
+PANNS Predicted sound for (55296, tone): Sine wave
+EPANNS Predicted sound for (55296, car): Vehicle
+PANNS Predicted sound for (55296, car): Vehicle
+EPANNS Predicted sound for (55296, river+car): Vehicle
+PANNS Predicted sound for (55296, river+car): Vehicle
+EPANNS Predicted sound for (55296, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (55296, phone+voice): Telephone bell ringing
+56320 23
+EPANNS Predicted sound for (56320, tone): Sine wave
+PANNS Predicted sound for (56320, tone): Sine wave
+EPANNS Predicted sound for (56320, car): Vehicle
+PANNS Predicted sound for (56320, car): Vehicle
+EPANNS Predicted sound for (56320, river+car): Vehicle
+PANNS Predicted sound for (56320, river+car): Vehicle
+EPANNS Predicted sound for (56320, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (56320, phone+voice): Music
+57344 24
+EPANNS Predicted sound for (57344, tone): Sine wave
+PANNS Predicted sound for (57344, tone): Sine wave
+EPANNS Predicted sound for (57344, car): Vehicle
+PANNS Predicted sound for (57344, car): Vehicle
+EPANNS Predicted sound for (57344, river+car): Vehicle
+PANNS Predicted sound for (57344, river+car): Vehicle
+EPANNS Predicted sound for (57344, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (57344, phone+voice): Music
+58368 25
+EPANNS Predicted sound for (58368, tone): Sine wave
+PANNS Predicted sound for (58368, tone): Sine wave
+EPANNS Predicted sound for (58368, car): Vehicle
+PANNS Predicted sound for (58368, car): Vehicle
+EPANNS Predicted sound for (58368, river+car): Vehicle
+PANNS Predicted sound for (58368, river+car): Vehicle
+EPANNS Predicted sound for (58368, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (58368, phone+voice): Music
+59392 26
+EPANNS Predicted sound for (59392, tone): Sine wave
+PANNS Predicted sound for (59392, tone): Sine wave
+EPANNS Predicted sound for (59392, car): Vehicle
+PANNS Predicted sound for (59392, car): Vehicle
+EPANNS Predicted sound for (59392, river+car): Vehicle
+PANNS Predicted sound for (59392, river+car): Vehicle
+EPANNS Predicted sound for (59392, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (59392, phone+voice): Music
+60416 27
+EPANNS Predicted sound for (60416, tone): Sine wave
+PANNS Predicted sound for (60416, tone): Sine wave
+EPANNS Predicted sound for (60416, car): Vehicle
+PANNS Predicted sound for (60416, car): Vehicle
+EPANNS Predicted sound for (60416, river+car): Vehicle
+PANNS Predicted sound for (60416, river+car): Vehicle
+EPANNS Predicted sound for (60416, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (60416, phone+voice): Music
+61440 28
+EPANNS Predicted sound for (61440, tone): Sine wave
+PANNS Predicted sound for (61440, tone): Sine wave
+EPANNS Predicted sound for (61440, car): Vehicle
+PANNS Predicted sound for (61440, car): Vehicle
+EPANNS Predicted sound for (61440, river+car): Vehicle
+PANNS Predicted sound for (61440, river+car): Vehicle
+EPANNS Predicted sound for (61440, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (61440, phone+voice): Telephone bell ringing
+62464 29
+EPANNS Predicted sound for (62464, tone): Sine wave
+PANNS Predicted sound for (62464, tone): Sine wave
+EPANNS Predicted sound for (62464, car): Vehicle
+PANNS Predicted sound for (62464, car): Vehicle
+EPANNS Predicted sound for (62464, river+car): Vehicle
+PANNS Predicted sound for (62464, river+car): Vehicle
+EPANNS Predicted sound for (62464, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (62464, phone+voice): Telephone bell ringing
+63488 30
+EPANNS Predicted sound for (63488, tone): Sine wave
+PANNS Predicted sound for (63488, tone): Sine wave
+EPANNS Predicted sound for (63488, car): Vehicle
+PANNS Predicted sound for (63488, car): Vehicle
+EPANNS Predicted sound for (63488, river+car): Vehicle
+PANNS Predicted sound for (63488, river+car): Vehicle
+EPANNS Predicted sound for (63488, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (63488, phone+voice): Telephone bell ringing
+64512 31
+EPANNS Predicted sound for (64512, tone): Sine wave
+PANNS Predicted sound for (64512, tone): Sine wave
+EPANNS Predicted sound for (64512, car): Vehicle
+PANNS Predicted sound for (64512, car): Vehicle
+EPANNS Predicted sound for (64512, river+car): Vehicle
+PANNS Predicted sound for (64512, river+car): Vehicle
+EPANNS Predicted sound for (64512, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (64512, phone+voice): Telephone bell ringing
+65536 32
+EPANNS Predicted sound for (65536, tone): Sine wave
+PANNS Predicted sound for (65536, tone): Sine wave
+EPANNS Predicted sound for (65536, car): Vehicle
+PANNS Predicted sound for (65536, car): Vehicle
+EPANNS Predicted sound for (65536, river+car): Vehicle
+PANNS Predicted sound for (65536, river+car): Vehicle
+EPANNS Predicted sound for (65536, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (65536, phone+voice): Telephone bell ringing
+66560 33
+EPANNS Predicted sound for (66560, tone): Sine wave
+PANNS Predicted sound for (66560, tone): Sine wave
+EPANNS Predicted sound for (66560, car): Vehicle
+PANNS Predicted sound for (66560, car): Vehicle
+EPANNS Predicted sound for (66560, river+car): Vehicle
+PANNS Predicted sound for (66560, river+car): Vehicle
+EPANNS Predicted sound for (66560, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (66560, phone+voice): Music
+67584 34
+EPANNS Predicted sound for (67584, tone): Sine wave
+PANNS Predicted sound for (67584, tone): Sine wave
+EPANNS Predicted sound for (67584, car): Vehicle
+PANNS Predicted sound for (67584, car): Vehicle
+EPANNS Predicted sound for (67584, river+car): Vehicle
+PANNS Predicted sound for (67584, river+car): Vehicle
+EPANNS Predicted sound for (67584, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (67584, phone+voice): Telephone bell ringing
+68608 35
+EPANNS Predicted sound for (68608, tone): Sine wave
+PANNS Predicted sound for (68608, tone): Sine wave
+EPANNS Predicted sound for (68608, car): Vehicle
+PANNS Predicted sound for (68608, car): Vehicle
+EPANNS Predicted sound for (68608, river+car): Vehicle
+PANNS Predicted sound for (68608, river+car): Vehicle
+EPANNS Predicted sound for (68608, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (68608, phone+voice): Music
+69632 36
+EPANNS Predicted sound for (69632, tone): Sine wave
+PANNS Predicted sound for (69632, tone): Sine wave
+EPANNS Predicted sound for (69632, car): Vehicle
+PANNS Predicted sound for (69632, car): Vehicle
+EPANNS Predicted sound for (69632, river+car): Vehicle
+PANNS Predicted sound for (69632, river+car): Vehicle
+EPANNS Predicted sound for (69632, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (69632, phone+voice): Music
+70656 37
+EPANNS Predicted sound for (70656, tone): Sine wave
+PANNS Predicted sound for (70656, tone): Sine wave
+EPANNS Predicted sound for (70656, car): Vehicle
+PANNS Predicted sound for (70656, car): Vehicle
+EPANNS Predicted sound for (70656, river+car): Vehicle
+PANNS Predicted sound for (70656, river+car): Vehicle
+EPANNS Predicted sound for (70656, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (70656, phone+voice): Music
+71680 38
+EPANNS Predicted sound for (71680, tone): Sine wave
+PANNS Predicted sound for (71680, tone): Sine wave
+EPANNS Predicted sound for (71680, car): Vehicle
+PANNS Predicted sound for (71680, car): Vehicle
+EPANNS Predicted sound for (71680, river+car): Vehicle
+PANNS Predicted sound for (71680, river+car): Vehicle
+EPANNS Predicted sound for (71680, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (71680, phone+voice): Telephone bell ringing
+72704 39
+EPANNS Predicted sound for (72704, tone): Sine wave
+PANNS Predicted sound for (72704, tone): Sine wave
+EPANNS Predicted sound for (72704, car): Vehicle
+PANNS Predicted sound for (72704, car): Vehicle
+EPANNS Predicted sound for (72704, river+car): Vehicle
+PANNS Predicted sound for (72704, river+car): Vehicle
+EPANNS Predicted sound for (72704, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (72704, phone+voice): Telephone bell ringing
+73728 40
+EPANNS Predicted sound for (73728, tone): Sine wave
+PANNS Predicted sound for (73728, tone): Sine wave
+EPANNS Predicted sound for (73728, car): Vehicle
+PANNS Predicted sound for (73728, car): Vehicle
+EPANNS Predicted sound for (73728, river+car): Vehicle
+PANNS Predicted sound for (73728, river+car): Vehicle
+EPANNS Predicted sound for (73728, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (73728, phone+voice): Telephone bell ringing
+74752 41
+EPANNS Predicted sound for (74752, tone): Sine wave
+PANNS Predicted sound for (74752, tone): Sine wave
+EPANNS Predicted sound for (74752, car): Vehicle
+PANNS Predicted sound for (74752, car): Vehicle
+EPANNS Predicted sound for (74752, river+car): Vehicle
+PANNS Predicted sound for (74752, river+car): Vehicle
+EPANNS Predicted sound for (74752, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (74752, phone+voice): Telephone bell ringing
+75776 42
+EPANNS Predicted sound for (75776, tone): Sine wave
+PANNS Predicted sound for (75776, tone): Sine wave
+EPANNS Predicted sound for (75776, car): Vehicle
+PANNS Predicted sound for (75776, car): Vehicle
+EPANNS Predicted sound for (75776, river+car): Vehicle
+PANNS Predicted sound for (75776, river+car): Vehicle
+EPANNS Predicted sound for (75776, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (75776, phone+voice): Telephone bell ringing
+76800 43
+EPANNS Predicted sound for (76800, tone): Sine wave
+PANNS Predicted sound for (76800, tone): Sine wave
+EPANNS Predicted sound for (76800, car): Vehicle
+PANNS Predicted sound for (76800, car): Vehicle
+EPANNS Predicted sound for (76800, river+car): Vehicle
+PANNS Predicted sound for (76800, river+car): Vehicle
+EPANNS Predicted sound for (76800, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (76800, phone+voice): Telephone bell ringing
+77824 44
+EPANNS Predicted sound for (77824, tone): Sine wave
+PANNS Predicted sound for (77824, tone): Sine wave
+EPANNS Predicted sound for (77824, car): Vehicle
+PANNS Predicted sound for (77824, car): Vehicle
+EPANNS Predicted sound for (77824, river+car): Vehicle
+PANNS Predicted sound for (77824, river+car): Vehicle
+EPANNS Predicted sound for (77824, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (77824, phone+voice): Telephone bell ringing
+78848 45
+EPANNS Predicted sound for (78848, tone): Sine wave
+PANNS Predicted sound for (78848, tone): Sine wave
+EPANNS Predicted sound for (78848, car): Vehicle
+PANNS Predicted sound for (78848, car): Vehicle
+EPANNS Predicted sound for (78848, river+car): Vehicle
+PANNS Predicted sound for (78848, river+car): Vehicle
+EPANNS Predicted sound for (78848, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (78848, phone+voice): Telephone bell ringing
+79872 46
+EPANNS Predicted sound for (79872, tone): Sine wave
+PANNS Predicted sound for (79872, tone): Sine wave
+EPANNS Predicted sound for (79872, car): Vehicle
+PANNS Predicted sound for (79872, car): Vehicle
+EPANNS Predicted sound for (79872, river+car): Vehicle
+PANNS Predicted sound for (79872, river+car): Vehicle
+EPANNS Predicted sound for (79872, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (79872, phone+voice): Telephone bell ringing
+80896 47
+EPANNS Predicted sound for (80896, tone): Sine wave
+PANNS Predicted sound for (80896, tone): Sine wave
+EPANNS Predicted sound for (80896, car): Vehicle
+PANNS Predicted sound for (80896, car): Vehicle
+EPANNS Predicted sound for (80896, river+car): Vehicle
+PANNS Predicted sound for (80896, river+car): Vehicle
+EPANNS Predicted sound for (80896, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (80896, phone+voice): Telephone bell ringing
+81920 48
+EPANNS Predicted sound for (81920, tone): Sine wave
+PANNS Predicted sound for (81920, tone): Sine wave
+EPANNS Predicted sound for (81920, car): Vehicle
+PANNS Predicted sound for (81920, car): Vehicle
+EPANNS Predicted sound for (81920, river+car): Vehicle
+PANNS Predicted sound for (81920, river+car): Vehicle
+EPANNS Predicted sound for (81920, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (81920, phone+voice): Telephone bell ringing
+82944 49
+EPANNS Predicted sound for (82944, tone): Sine wave
+PANNS Predicted sound for (82944, tone): Sine wave
+EPANNS Predicted sound for (82944, car): Vehicle
+PANNS Predicted sound for (82944, car): Vehicle
+EPANNS Predicted sound for (82944, river+car): Vehicle
+PANNS Predicted sound for (82944, river+car): Vehicle
+EPANNS Predicted sound for (82944, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (82944, phone+voice): Telephone bell ringing
+83968 50
+EPANNS Predicted sound for (83968, tone): Sine wave
+PANNS Predicted sound for (83968, tone): Sine wave
+EPANNS Predicted sound for (83968, car): Vehicle
+PANNS Predicted sound for (83968, car): Vehicle
+EPANNS Predicted sound for (83968, river+car): Vehicle
+PANNS Predicted sound for (83968, river+car): Vehicle
+EPANNS Predicted sound for (83968, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (83968, phone+voice): Telephone bell ringing
+84992 51
+EPANNS Predicted sound for (84992, tone): Sine wave
+PANNS Predicted sound for (84992, tone): Sine wave
+EPANNS Predicted sound for (84992, car): Vehicle
+PANNS Predicted sound for (84992, car): Vehicle
+EPANNS Predicted sound for (84992, river+car): Vehicle
+PANNS Predicted sound for (84992, river+car): Vehicle
+EPANNS Predicted sound for (84992, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (84992, phone+voice): Telephone bell ringing
+86016 52
+EPANNS Predicted sound for (86016, tone): Sine wave
+PANNS Predicted sound for (86016, tone): Sine wave
+EPANNS Predicted sound for (86016, car): Vehicle
+PANNS Predicted sound for (86016, car): Vehicle
+EPANNS Predicted sound for (86016, river+car): Vehicle
+PANNS Predicted sound for (86016, river+car): Vehicle
+EPANNS Predicted sound for (86016, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (86016, phone+voice): Telephone bell ringing
+87040 53
+EPANNS Predicted sound for (87040, tone): Sine wave
+PANNS Predicted sound for (87040, tone): Sine wave
+EPANNS Predicted sound for (87040, car): Vehicle
+PANNS Predicted sound for (87040, car): Vehicle
+EPANNS Predicted sound for (87040, river+car): Vehicle
+PANNS Predicted sound for (87040, river+car): Vehicle
+EPANNS Predicted sound for (87040, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (87040, phone+voice): Telephone bell ringing
+88064 54
+EPANNS Predicted sound for (88064, tone): Sine wave
+PANNS Predicted sound for (88064, tone): Sine wave
+EPANNS Predicted sound for (88064, car): Vehicle
+PANNS Predicted sound for (88064, car): Vehicle
+EPANNS Predicted sound for (88064, river+car): Vehicle
+PANNS Predicted sound for (88064, river+car): Vehicle
+EPANNS Predicted sound for (88064, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (88064, phone+voice): Telephone bell ringing
+89088 55
+EPANNS Predicted sound for (89088, tone): Sine wave
+PANNS Predicted sound for (89088, tone): Sine wave
+EPANNS Predicted sound for (89088, car): Vehicle
+PANNS Predicted sound for (89088, car): Vehicle
+EPANNS Predicted sound for (89088, river+car): Vehicle
+PANNS Predicted sound for (89088, river+car): Vehicle
+EPANNS Predicted sound for (89088, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (89088, phone+voice): Telephone bell ringing
+90112 56
+EPANNS Predicted sound for (90112, tone): Sine wave
+PANNS Predicted sound for (90112, tone): Sine wave
+EPANNS Predicted sound for (90112, car): Vehicle
+PANNS Predicted sound for (90112, car): Vehicle
+EPANNS Predicted sound for (90112, river+car): Vehicle
+PANNS Predicted sound for (90112, river+car): Vehicle
+EPANNS Predicted sound for (90112, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (90112, phone+voice): Telephone bell ringing
+91136 57
+EPANNS Predicted sound for (91136, tone): Sine wave
+PANNS Predicted sound for (91136, tone): Sine wave
+EPANNS Predicted sound for (91136, car): Vehicle
+PANNS Predicted sound for (91136, car): Vehicle
+EPANNS Predicted sound for (91136, river+car): Vehicle
+PANNS Predicted sound for (91136, river+car): Vehicle
+EPANNS Predicted sound for (91136, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (91136, phone+voice): Telephone bell ringing
+92160 58
+EPANNS Predicted sound for (92160, tone): Sine wave
+PANNS Predicted sound for (92160, tone): Sine wave
+EPANNS Predicted sound for (92160, car): Vehicle
+PANNS Predicted sound for (92160, car): Vehicle
+EPANNS Predicted sound for (92160, river+car): Vehicle
+PANNS Predicted sound for (92160, river+car): Vehicle
+EPANNS Predicted sound for (92160, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (92160, phone+voice): Telephone bell ringing
+93184 59
+EPANNS Predicted sound for (93184, tone): Sine wave
+PANNS Predicted sound for (93184, tone): Sine wave
+EPANNS Predicted sound for (93184, car): Vehicle
+PANNS Predicted sound for (93184, car): Vehicle
+EPANNS Predicted sound for (93184, river+car): Vehicle
+PANNS Predicted sound for (93184, river+car): Vehicle
+EPANNS Predicted sound for (93184, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (93184, phone+voice): Telephone bell ringing
+94208 60
+EPANNS Predicted sound for (94208, tone): Sine wave
+PANNS Predicted sound for (94208, tone): Sine wave
+EPANNS Predicted sound for (94208, car): Vehicle
+PANNS Predicted sound for (94208, car): Vehicle
+EPANNS Predicted sound for (94208, river+car): Vehicle
+PANNS Predicted sound for (94208, river+car): Vehicle
+EPANNS Predicted sound for (94208, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (94208, phone+voice): Telephone bell ringing
+95232 61
+EPANNS Predicted sound for (95232, tone): Sine wave
+PANNS Predicted sound for (95232, tone): Sine wave
+EPANNS Predicted sound for (95232, car): Vehicle
+PANNS Predicted sound for (95232, car): Vehicle
+EPANNS Predicted sound for (95232, river+car): Vehicle
+PANNS Predicted sound for (95232, river+car): Vehicle
+EPANNS Predicted sound for (95232, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (95232, phone+voice): Telephone bell ringing
+96256 62
+EPANNS Predicted sound for (96256, tone): Sine wave
+PANNS Predicted sound for (96256, tone): Sine wave
+EPANNS Predicted sound for (96256, car): Vehicle
+PANNS Predicted sound for (96256, car): Vehicle
+EPANNS Predicted sound for (96256, river+car): Vehicle
+PANNS Predicted sound for (96256, river+car): Vehicle
+EPANNS Predicted sound for (96256, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (96256, phone+voice): Telephone bell ringing
+97280 63
+EPANNS Predicted sound for (97280, tone): Sine wave
+PANNS Predicted sound for (97280, tone): Sine wave
+EPANNS Predicted sound for (97280, car): Vehicle
+PANNS Predicted sound for (97280, car): Vehicle
+EPANNS Predicted sound for (97280, river+car): Vehicle
+PANNS Predicted sound for (97280, river+car): Vehicle
+EPANNS Predicted sound for (97280, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (97280, phone+voice): Telephone bell ringing
+98304 64
+EPANNS Predicted sound for (98304, tone): Sine wave
+PANNS Predicted sound for (98304, tone): Sine wave
+EPANNS Predicted sound for (98304, car): Vehicle
+PANNS Predicted sound for (98304, car): Vehicle
+EPANNS Predicted sound for (98304, river+car): Vehicle
+PANNS Predicted sound for (98304, river+car): Vehicle
+EPANNS Predicted sound for (98304, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (98304, phone+voice): Telephone bell ringing
+99328 65
+EPANNS Predicted sound for (99328, tone): Sine wave
+PANNS Predicted sound for (99328, tone): Sine wave
+EPANNS Predicted sound for (99328, car): Vehicle
+PANNS Predicted sound for (99328, car): Vehicle
+EPANNS Predicted sound for (99328, river+car): Vehicle
+PANNS Predicted sound for (99328, river+car): Vehicle
+EPANNS Predicted sound for (99328, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (99328, phone+voice): Telephone bell ringing
+100352 66
+EPANNS Predicted sound for (100352, tone): Sine wave
+PANNS Predicted sound for (100352, tone): Sine wave
+EPANNS Predicted sound for (100352, car): Vehicle
+PANNS Predicted sound for (100352, car): Vehicle
+EPANNS Predicted sound for (100352, river+car): Vehicle
+PANNS Predicted sound for (100352, river+car): Vehicle
+EPANNS Predicted sound for (100352, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (100352, phone+voice): Telephone bell ringing
+101376 67
+EPANNS Predicted sound for (101376, tone): Sine wave
+PANNS Predicted sound for (101376, tone): Sine wave
+EPANNS Predicted sound for (101376, car): Vehicle
+PANNS Predicted sound for (101376, car): Vehicle
+EPANNS Predicted sound for (101376, river+car): Vehicle
+PANNS Predicted sound for (101376, river+car): Vehicle
+EPANNS Predicted sound for (101376, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (101376, phone+voice): Telephone bell ringing
+102400 68
+EPANNS Predicted sound for (102400, tone): Sine wave
+PANNS Predicted sound for (102400, tone): Sine wave
+EPANNS Predicted sound for (102400, car): Vehicle
+PANNS Predicted sound for (102400, car): Vehicle
+EPANNS Predicted sound for (102400, river+car): Vehicle
+PANNS Predicted sound for (102400, river+car): Waves, surf
+EPANNS Predicted sound for (102400, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (102400, phone+voice): Telephone bell ringing
+103424 69
+EPANNS Predicted sound for (103424, tone): Sine wave
+PANNS Predicted sound for (103424, tone): Sine wave
+EPANNS Predicted sound for (103424, car): Vehicle
+PANNS Predicted sound for (103424, car): Vehicle
+EPANNS Predicted sound for (103424, river+car): Vehicle
+PANNS Predicted sound for (103424, river+car): Waves, surf
+EPANNS Predicted sound for (103424, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (103424, phone+voice): Telephone bell ringing
+104448 70
+EPANNS Predicted sound for (104448, tone): Sine wave
+PANNS Predicted sound for (104448, tone): Sine wave
+EPANNS Predicted sound for (104448, car): Vehicle
+PANNS Predicted sound for (104448, car): Vehicle
+EPANNS Predicted sound for (104448, river+car): Vehicle
+PANNS Predicted sound for (104448, river+car): Waves, surf
+EPANNS Predicted sound for (104448, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (104448, phone+voice): Telephone bell ringing
+105472 71
+EPANNS Predicted sound for (105472, tone): Sine wave
+PANNS Predicted sound for (105472, tone): Sine wave
+EPANNS Predicted sound for (105472, car): Vehicle
+PANNS Predicted sound for (105472, car): Vehicle
+EPANNS Predicted sound for (105472, river+car): Vehicle
+PANNS Predicted sound for (105472, river+car): Waves, surf
+EPANNS Predicted sound for (105472, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (105472, phone+voice): Telephone bell ringing
+106496 72
+EPANNS Predicted sound for (106496, tone): Sine wave
+PANNS Predicted sound for (106496, tone): Sine wave
+EPANNS Predicted sound for (106496, car): Vehicle
+PANNS Predicted sound for (106496, car): Vehicle
+EPANNS Predicted sound for (106496, river+car): Vehicle
+PANNS Predicted sound for (106496, river+car): Waves, surf
+EPANNS Predicted sound for (106496, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (106496, phone+voice): Telephone bell ringing
+107520 73
+EPANNS Predicted sound for (107520, tone): Sine wave
+PANNS Predicted sound for (107520, tone): Sine wave
+EPANNS Predicted sound for (107520, car): Vehicle
+PANNS Predicted sound for (107520, car): Vehicle
+EPANNS Predicted sound for (107520, river+car): Vehicle
+PANNS Predicted sound for (107520, river+car): Waves, surf
+EPANNS Predicted sound for (107520, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (107520, phone+voice): Telephone bell ringing
+108544 74
+EPANNS Predicted sound for (108544, tone): Sine wave
+PANNS Predicted sound for (108544, tone): Sine wave
+EPANNS Predicted sound for (108544, car): Vehicle
+PANNS Predicted sound for (108544, car): Vehicle
+EPANNS Predicted sound for (108544, river+car): Vehicle
+PANNS Predicted sound for (108544, river+car): Waves, surf
+EPANNS Predicted sound for (108544, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (108544, phone+voice): Telephone bell ringing
+109568 75
+EPANNS Predicted sound for (109568, tone): Sine wave
+PANNS Predicted sound for (109568, tone): Sine wave
+EPANNS Predicted sound for (109568, car): Vehicle
+PANNS Predicted sound for (109568, car): Vehicle
+EPANNS Predicted sound for (109568, river+car): Vehicle
+PANNS Predicted sound for (109568, river+car): Waves, surf
+EPANNS Predicted sound for (109568, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (109568, phone+voice): Telephone bell ringing
+110592 76
+EPANNS Predicted sound for (110592, tone): Sine wave
+PANNS Predicted sound for (110592, tone): Sine wave
+EPANNS Predicted sound for (110592, car): Vehicle
+PANNS Predicted sound for (110592, car): Vehicle
+EPANNS Predicted sound for (110592, river+car): Vehicle
+PANNS Predicted sound for (110592, river+car): Waves, surf
+EPANNS Predicted sound for (110592, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (110592, phone+voice): Telephone bell ringing
+111616 77
+EPANNS Predicted sound for (111616, tone): Sine wave
+PANNS Predicted sound for (111616, tone): Sine wave
+EPANNS Predicted sound for (111616, car): Vehicle
+PANNS Predicted sound for (111616, car): Vehicle
+EPANNS Predicted sound for (111616, river+car): Vehicle
+PANNS Predicted sound for (111616, river+car): Waves, surf
+EPANNS Predicted sound for (111616, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (111616, phone+voice): Telephone bell ringing
+112640 78
+EPANNS Predicted sound for (112640, tone): Sine wave
+PANNS Predicted sound for (112640, tone): Sine wave
+EPANNS Predicted sound for (112640, car): Vehicle
+PANNS Predicted sound for (112640, car): Vehicle
+EPANNS Predicted sound for (112640, river+car): Vehicle
+PANNS Predicted sound for (112640, river+car): Vehicle
+EPANNS Predicted sound for (112640, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (112640, phone+voice): Telephone bell ringing
+113664 79
+EPANNS Predicted sound for (113664, tone): Sine wave
+PANNS Predicted sound for (113664, tone): Sine wave
+EPANNS Predicted sound for (113664, car): Vehicle
+PANNS Predicted sound for (113664, car): Vehicle
+EPANNS Predicted sound for (113664, river+car): Vehicle
+PANNS Predicted sound for (113664, river+car): Waves, surf
+EPANNS Predicted sound for (113664, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (113664, phone+voice): Telephone bell ringing
+114688 80
+EPANNS Predicted sound for (114688, tone): Sine wave
+PANNS Predicted sound for (114688, tone): Sine wave
+EPANNS Predicted sound for (114688, car): Vehicle
+PANNS Predicted sound for (114688, car): Vehicle
+EPANNS Predicted sound for (114688, river+car): Vehicle
+PANNS Predicted sound for (114688, river+car): Waves, surf
+EPANNS Predicted sound for (114688, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (114688, phone+voice): Telephone bell ringing
+115712 81
+EPANNS Predicted sound for (115712, tone): Sine wave
+PANNS Predicted sound for (115712, tone): Sine wave
+EPANNS Predicted sound for (115712, car): Vehicle
+PANNS Predicted sound for (115712, car): Vehicle
+EPANNS Predicted sound for (115712, river+car): Vehicle
+PANNS Predicted sound for (115712, river+car): Waves, surf
+EPANNS Predicted sound for (115712, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (115712, phone+voice): Telephone bell ringing
+116736 82
+EPANNS Predicted sound for (116736, tone): Sine wave
+PANNS Predicted sound for (116736, tone): Sine wave
+EPANNS Predicted sound for (116736, car): Vehicle
+PANNS Predicted sound for (116736, car): Vehicle
+EPANNS Predicted sound for (116736, river+car): Vehicle
+PANNS Predicted sound for (116736, river+car): Waves, surf
+EPANNS Predicted sound for (116736, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (116736, phone+voice): Telephone bell ringing
+117760 83
+EPANNS Predicted sound for (117760, tone): Sine wave
+PANNS Predicted sound for (117760, tone): Sine wave
+EPANNS Predicted sound for (117760, car): Vehicle
+PANNS Predicted sound for (117760, car): Vehicle
+EPANNS Predicted sound for (117760, river+car): Vehicle
+PANNS Predicted sound for (117760, river+car): Vehicle
+EPANNS Predicted sound for (117760, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (117760, phone+voice): Telephone bell ringing
+118784 84
+EPANNS Predicted sound for (118784, tone): Sine wave
+PANNS Predicted sound for (118784, tone): Sine wave
+EPANNS Predicted sound for (118784, car): Vehicle
+PANNS Predicted sound for (118784, car): Vehicle
+EPANNS Predicted sound for (118784, river+car): Vehicle
+PANNS Predicted sound for (118784, river+car): Vehicle
+EPANNS Predicted sound for (118784, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (118784, phone+voice): Telephone bell ringing
+119808 85
+EPANNS Predicted sound for (119808, tone): Sine wave
+PANNS Predicted sound for (119808, tone): Sine wave
+EPANNS Predicted sound for (119808, car): Vehicle
+PANNS Predicted sound for (119808, car): Vehicle
+EPANNS Predicted sound for (119808, river+car): Vehicle
+PANNS Predicted sound for (119808, river+car): Waves, surf
+EPANNS Predicted sound for (119808, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (119808, phone+voice): Telephone bell ringing
+120832 86
+EPANNS Predicted sound for (120832, tone): Sine wave
+PANNS Predicted sound for (120832, tone): Sine wave
+EPANNS Predicted sound for (120832, car): Vehicle
+PANNS Predicted sound for (120832, car): Vehicle
+EPANNS Predicted sound for (120832, river+car): Vehicle
+PANNS Predicted sound for (120832, river+car): Vehicle
+EPANNS Predicted sound for (120832, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (120832, phone+voice): Telephone bell ringing
+121856 87
+EPANNS Predicted sound for (121856, tone): Sine wave
+PANNS Predicted sound for (121856, tone): Sine wave
+EPANNS Predicted sound for (121856, car): Vehicle
+PANNS Predicted sound for (121856, car): Vehicle
+EPANNS Predicted sound for (121856, river+car): Vehicle
+PANNS Predicted sound for (121856, river+car): Waves, surf
+EPANNS Predicted sound for (121856, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (121856, phone+voice): Telephone bell ringing
+122880 88
+EPANNS Predicted sound for (122880, tone): Sine wave
+PANNS Predicted sound for (122880, tone): Sine wave
+EPANNS Predicted sound for (122880, car): Vehicle
+PANNS Predicted sound for (122880, car): Vehicle
+EPANNS Predicted sound for (122880, river+car): Vehicle
+PANNS Predicted sound for (122880, river+car): Vehicle
+EPANNS Predicted sound for (122880, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (122880, phone+voice): Telephone bell ringing
+123904 89
+EPANNS Predicted sound for (123904, tone): Sine wave
+PANNS Predicted sound for (123904, tone): Sine wave
+EPANNS Predicted sound for (123904, car): Vehicle
+PANNS Predicted sound for (123904, car): Vehicle
+EPANNS Predicted sound for (123904, river+car): Vehicle
+PANNS Predicted sound for (123904, river+car): Vehicle
+EPANNS Predicted sound for (123904, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (123904, phone+voice): Telephone bell ringing
+124928 90
+EPANNS Predicted sound for (124928, tone): Sine wave
+PANNS Predicted sound for (124928, tone): Sine wave
+EPANNS Predicted sound for (124928, car): Vehicle
+PANNS Predicted sound for (124928, car): Vehicle
+EPANNS Predicted sound for (124928, river+car): Vehicle
+PANNS Predicted sound for (124928, river+car): Vehicle
+EPANNS Predicted sound for (124928, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (124928, phone+voice): Telephone bell ringing
+125952 91
+EPANNS Predicted sound for (125952, tone): Sine wave
+PANNS Predicted sound for (125952, tone): Sine wave
+EPANNS Predicted sound for (125952, car): Vehicle
+PANNS Predicted sound for (125952, car): Vehicle
+EPANNS Predicted sound for (125952, river+car): Vehicle
+PANNS Predicted sound for (125952, river+car): Vehicle
+EPANNS Predicted sound for (125952, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (125952, phone+voice): Telephone bell ringing
+126976 92
+EPANNS Predicted sound for (126976, tone): Sine wave
+PANNS Predicted sound for (126976, tone): Sine wave
+EPANNS Predicted sound for (126976, car): Vehicle
+PANNS Predicted sound for (126976, car): Vehicle
+EPANNS Predicted sound for (126976, river+car): Vehicle
+PANNS Predicted sound for (126976, river+car): Vehicle
+EPANNS Predicted sound for (126976, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (126976, phone+voice): Telephone bell ringing
+128000 93
+EPANNS Predicted sound for (128000, tone): Sine wave
+PANNS Predicted sound for (128000, tone): Sine wave
+EPANNS Predicted sound for (128000, car): Vehicle
+PANNS Predicted sound for (128000, car): Vehicle
+EPANNS Predicted sound for (128000, river+car): Vehicle
+PANNS Predicted sound for (128000, river+car): Vehicle
+EPANNS Predicted sound for (128000, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (128000, phone+voice): Telephone bell ringing
+129024 94
+EPANNS Predicted sound for (129024, tone): Sine wave
+PANNS Predicted sound for (129024, tone): Sine wave
+EPANNS Predicted sound for (129024, car): Vehicle
+PANNS Predicted sound for (129024, car): Vehicle
+EPANNS Predicted sound for (129024, river+car): Vehicle
+PANNS Predicted sound for (129024, river+car): Vehicle
+EPANNS Predicted sound for (129024, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (129024, phone+voice): Telephone bell ringing
+130048 95
+EPANNS Predicted sound for (130048, tone): Sine wave
+PANNS Predicted sound for (130048, tone): Sine wave
+EPANNS Predicted sound for (130048, car): Vehicle
+PANNS Predicted sound for (130048, car): Vehicle
+EPANNS Predicted sound for (130048, river+car): Vehicle
+PANNS Predicted sound for (130048, river+car): Vehicle
+EPANNS Predicted sound for (130048, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (130048, phone+voice): Telephone bell ringing
+131072 96
+EPANNS Predicted sound for (131072, tone): Sine wave
+PANNS Predicted sound for (131072, tone): Sine wave
+EPANNS Predicted sound for (131072, car): Vehicle
+PANNS Predicted sound for (131072, car): Vehicle
+EPANNS Predicted sound for (131072, river+car): Vehicle
+PANNS Predicted sound for (131072, river+car): Vehicle
+EPANNS Predicted sound for (131072, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (131072, phone+voice): Telephone bell ringing
+132096 97
+EPANNS Predicted sound for (132096, tone): Sine wave
+PANNS Predicted sound for (132096, tone): Sine wave
+EPANNS Predicted sound for (132096, car): Vehicle
+PANNS Predicted sound for (132096, car): Vehicle
+EPANNS Predicted sound for (132096, river+car): Vehicle
+PANNS Predicted sound for (132096, river+car): Vehicle
+EPANNS Predicted sound for (132096, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (132096, phone+voice): Telephone bell ringing
+133120 98
+EPANNS Predicted sound for (133120, tone): Sine wave
+PANNS Predicted sound for (133120, tone): Sine wave
+EPANNS Predicted sound for (133120, car): Vehicle
+PANNS Predicted sound for (133120, car): Vehicle
+EPANNS Predicted sound for (133120, river+car): Vehicle
+PANNS Predicted sound for (133120, river+car): Vehicle
+EPANNS Predicted sound for (133120, phone+voice): Speech
+PANNS Predicted sound for (133120, phone+voice): Speech
+134144 99
+EPANNS Predicted sound for (134144, tone): Sine wave
+PANNS Predicted sound for (134144, tone): Sine wave
+EPANNS Predicted sound for (134144, car): Vehicle
+PANNS Predicted sound for (134144, car): Vehicle
+EPANNS Predicted sound for (134144, river+car): Vehicle
+PANNS Predicted sound for (134144, river+car): Vehicle
+EPANNS Predicted sound for (134144, phone+voice): Speech
+PANNS Predicted sound for (134144, phone+voice): SpeechEPANNS Predicted sound for (32768, tone): Sine wave
+PANNS Predicted sound for (32768, tone): Sine wave
+EPANNS Predicted sound for (32768, car): Music
+PANNS Predicted sound for (32768, car): Music
+EPANNS Predicted sound for (32768, river+car): Boat, Water vehicle
+PANNS Predicted sound for (32768, river+car): Waves, surf
+EPANNS Predicted sound for (32768, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (32768, phone+voice): Telephone bell ringing
+33792 1
+EPANNS Predicted sound for (33792, tone): Sine wave
+PANNS Predicted sound for (33792, tone): Sine wave
+EPANNS Predicted sound for (33792, car): Music
+PANNS Predicted sound for (33792, car): Music
+EPANNS Predicted sound for (33792, river+car): Boat, Water vehicle
+PANNS Predicted sound for (33792, river+car): Waves, surf
+EPANNS Predicted sound for (33792, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (33792, phone+voice): Telephone bell ringing
+34816 2
+EPANNS Predicted sound for (34816, tone): Sine wave
+PANNS Predicted sound for (34816, tone): Sine wave
+EPANNS Predicted sound for (34816, car): Music
+PANNS Predicted sound for (34816, car): Music
+EPANNS Predicted sound for (34816, river+car): Boat, Water vehicle
+PANNS Predicted sound for (34816, river+car): Waves, surf
+EPANNS Predicted sound for (34816, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (34816, phone+voice): Telephone bell ringing
+35840 3
+EPANNS Predicted sound for (35840, tone): Sine wave
+PANNS Predicted sound for (35840, tone): Sine wave
+EPANNS Predicted sound for (35840, car): Music
+PANNS Predicted sound for (35840, car): Music
+EPANNS Predicted sound for (35840, river+car): Boat, Water vehicle
+PANNS Predicted sound for (35840, river+car): Vehicle
+EPANNS Predicted sound for (35840, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (35840, phone+voice): Music
+36864 4
+EPANNS Predicted sound for (36864, tone): Sine wave
+PANNS Predicted sound for (36864, tone): Sine wave
+EPANNS Predicted sound for (36864, car): Music
+PANNS Predicted sound for (36864, car): Music
+EPANNS Predicted sound for (36864, river+car): Boat, Water vehicle
+PANNS Predicted sound for (36864, river+car): Vehicle
+EPANNS Predicted sound for (36864, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (36864, phone+voice): Music
+37888 5
+EPANNS Predicted sound for (37888, tone): Sine wave
+PANNS Predicted sound for (37888, tone): Sine wave
+EPANNS Predicted sound for (37888, car): Music
+PANNS Predicted sound for (37888, car): Music
+EPANNS Predicted sound for (37888, river+car): Boat, Water vehicle
+PANNS Predicted sound for (37888, river+car): Vehicle
+EPANNS Predicted sound for (37888, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (37888, phone+voice): Music
+38912 6
+EPANNS Predicted sound for (38912, tone): Sine wave
+PANNS Predicted sound for (38912, tone): Sine wave
+EPANNS Predicted sound for (38912, car): Music
+PANNS Predicted sound for (38912, car): Music
+EPANNS Predicted sound for (38912, river+car): Boat, Water vehicle
+PANNS Predicted sound for (38912, river+car): Vehicle
+EPANNS Predicted sound for (38912, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (38912, phone+voice): Music
+39936 7
+EPANNS Predicted sound for (39936, tone): Sine wave
+PANNS Predicted sound for (39936, tone): Sine wave
+EPANNS Predicted sound for (39936, car): Music
+PANNS Predicted sound for (39936, car): Music
+EPANNS Predicted sound for (39936, river+car): Boat, Water vehicle
+PANNS Predicted sound for (39936, river+car): Waves, surf
+EPANNS Predicted sound for (39936, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (39936, phone+voice): Music
+40960 8
+EPANNS Predicted sound for (40960, tone): Sine wave
+PANNS Predicted sound for (40960, tone): Sine wave
+EPANNS Predicted sound for (40960, car): Vehicle
+PANNS Predicted sound for (40960, car): Vehicle
+EPANNS Predicted sound for (40960, river+car): Vehicle
+PANNS Predicted sound for (40960, river+car): Vehicle
+EPANNS Predicted sound for (40960, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (40960, phone+voice): Telephone bell ringing
+41984 9
+EPANNS Predicted sound for (41984, tone): Sine wave
+PANNS Predicted sound for (41984, tone): Sine wave
+EPANNS Predicted sound for (41984, car): Silence
+PANNS Predicted sound for (41984, car): Vehicle
+EPANNS Predicted sound for (41984, river+car): Vehicle
+PANNS Predicted sound for (41984, river+car): Vehicle
+EPANNS Predicted sound for (41984, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (41984, phone+voice): Telephone bell ringing
+43008 10
+EPANNS Predicted sound for (43008, tone): Sine wave
+PANNS Predicted sound for (43008, tone): Sine wave
+EPANNS Predicted sound for (43008, car): Silence
+PANNS Predicted sound for (43008, car): Vehicle
+EPANNS Predicted sound for (43008, river+car): Vehicle
+PANNS Predicted sound for (43008, river+car): Vehicle
+EPANNS Predicted sound for (43008, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (43008, phone+voice): Telephone bell ringing
+44032 11
+EPANNS Predicted sound for (44032, tone): Sine wave
+PANNS Predicted sound for (44032, tone): Sine wave
+EPANNS Predicted sound for (44032, car): Vehicle
+PANNS Predicted sound for (44032, car): Vehicle
+EPANNS Predicted sound for (44032, river+car): Vehicle
+PANNS Predicted sound for (44032, river+car): Vehicle
+EPANNS Predicted sound for (44032, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (44032, phone+voice): Telephone bell ringing
+45056 12
+EPANNS Predicted sound for (45056, tone): Sine wave
+PANNS Predicted sound for (45056, tone): Sine wave
+EPANNS Predicted sound for (45056, car): Vehicle
+PANNS Predicted sound for (45056, car): Vehicle
+EPANNS Predicted sound for (45056, river+car): Vehicle
+PANNS Predicted sound for (45056, river+car): Vehicle
+EPANNS Predicted sound for (45056, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (45056, phone+voice): Telephone bell ringing
+46080 13
+EPANNS Predicted sound for (46080, tone): Sine wave
+PANNS Predicted sound for (46080, tone): Sine wave
+EPANNS Predicted sound for (46080, car): Silence
+PANNS Predicted sound for (46080, car): Vehicle
+EPANNS Predicted sound for (46080, river+car): Vehicle
+PANNS Predicted sound for (46080, river+car): Vehicle
+EPANNS Predicted sound for (46080, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (46080, phone+voice): Music
+47104 14
+EPANNS Predicted sound for (47104, tone): Sine wave
+PANNS Predicted sound for (47104, tone): Sine wave
+EPANNS Predicted sound for (47104, car): Silence
+PANNS Predicted sound for (47104, car): Vehicle
+EPANNS Predicted sound for (47104, river+car): Vehicle
+PANNS Predicted sound for (47104, river+car): Vehicle
+EPANNS Predicted sound for (47104, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (47104, phone+voice): Music
+48128 15
+EPANNS Predicted sound for (48128, tone): Sine wave
+PANNS Predicted sound for (48128, tone): Sine wave
+EPANNS Predicted sound for (48128, car): Silence
+PANNS Predicted sound for (48128, car): Vehicle
+EPANNS Predicted sound for (48128, river+car): Vehicle
+PANNS Predicted sound for (48128, river+car): Vehicle
+EPANNS Predicted sound for (48128, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (48128, phone+voice): Music
+49152 16
+EPANNS Predicted sound for (49152, tone): Sine wave
+PANNS Predicted sound for (49152, tone): Sine wave
+EPANNS Predicted sound for (49152, car): Silence
+PANNS Predicted sound for (49152, car): Vehicle
+EPANNS Predicted sound for (49152, river+car): Vehicle
+PANNS Predicted sound for (49152, river+car): Vehicle
+EPANNS Predicted sound for (49152, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (49152, phone+voice): Music
+50176 17
+EPANNS Predicted sound for (50176, tone): Sine wave
+PANNS Predicted sound for (50176, tone): Sine wave
+EPANNS Predicted sound for (50176, car): Silence
+PANNS Predicted sound for (50176, car): Vehicle
+EPANNS Predicted sound for (50176, river+car): Vehicle
+PANNS Predicted sound for (50176, river+car): Vehicle
+EPANNS Predicted sound for (50176, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (50176, phone+voice): Music
+51200 18
+EPANNS Predicted sound for (51200, tone): Sine wave
+PANNS Predicted sound for (51200, tone): Sine wave
+EPANNS Predicted sound for (51200, car): Vehicle
+PANNS Predicted sound for (51200, car): Vehicle
+EPANNS Predicted sound for (51200, river+car): Vehicle
+PANNS Predicted sound for (51200, river+car): Vehicle
+EPANNS Predicted sound for (51200, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (51200, phone+voice): Telephone bell ringing
+52224 19
+EPANNS Predicted sound for (52224, tone): Sine wave
+PANNS Predicted sound for (52224, tone): Sine wave
+EPANNS Predicted sound for (52224, car): Vehicle
+PANNS Predicted sound for (52224, car): Vehicle
+EPANNS Predicted sound for (52224, river+car): Vehicle
+PANNS Predicted sound for (52224, river+car): Vehicle
+EPANNS Predicted sound for (52224, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (52224, phone+voice): Telephone bell ringing
+53248 20
+EPANNS Predicted sound for (53248, tone): Sine wave
+PANNS Predicted sound for (53248, tone): Sine wave
+EPANNS Predicted sound for (53248, car): Vehicle
+PANNS Predicted sound for (53248, car): Vehicle
+EPANNS Predicted sound for (53248, river+car): Vehicle
+PANNS Predicted sound for (53248, river+car): Vehicle
+EPANNS Predicted sound for (53248, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (53248, phone+voice): Telephone bell ringing
+54272 21
+EPANNS Predicted sound for (54272, tone): Sine wave
+PANNS Predicted sound for (54272, tone): Sine wave
+EPANNS Predicted sound for (54272, car): Vehicle
+PANNS Predicted sound for (54272, car): Vehicle
+EPANNS Predicted sound for (54272, river+car): Vehicle
+PANNS Predicted sound for (54272, river+car): Vehicle
+EPANNS Predicted sound for (54272, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (54272, phone+voice): Telephone bell ringing
+55296 22
+EPANNS Predicted sound for (55296, tone): Sine wave
+PANNS Predicted sound for (55296, tone): Sine wave
+EPANNS Predicted sound for (55296, car): Vehicle
+PANNS Predicted sound for (55296, car): Vehicle
+EPANNS Predicted sound for (55296, river+car): Vehicle
+PANNS Predicted sound for (55296, river+car): Vehicle
+EPANNS Predicted sound for (55296, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (55296, phone+voice): Telephone bell ringing
+56320 23
+EPANNS Predicted sound for (56320, tone): Sine wave
+PANNS Predicted sound for (56320, tone): Sine wave
+EPANNS Predicted sound for (56320, car): Vehicle
+PANNS Predicted sound for (56320, car): Vehicle
+EPANNS Predicted sound for (56320, river+car): Vehicle
+PANNS Predicted sound for (56320, river+car): Vehicle
+EPANNS Predicted sound for (56320, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (56320, phone+voice): Music
+57344 24
+EPANNS Predicted sound for (57344, tone): Sine wave
+PANNS Predicted sound for (57344, tone): Sine wave
+EPANNS Predicted sound for (57344, car): Vehicle
+PANNS Predicted sound for (57344, car): Vehicle
+EPANNS Predicted sound for (57344, river+car): Vehicle
+PANNS Predicted sound for (57344, river+car): Vehicle
+EPANNS Predicted sound for (57344, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (57344, phone+voice): Music
+58368 25
+EPANNS Predicted sound for (58368, tone): Sine wave
+PANNS Predicted sound for (58368, tone): Sine wave
+EPANNS Predicted sound for (58368, car): Vehicle
+PANNS Predicted sound for (58368, car): Vehicle
+EPANNS Predicted sound for (58368, river+car): Vehicle
+PANNS Predicted sound for (58368, river+car): Vehicle
+EPANNS Predicted sound for (58368, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (58368, phone+voice): Music
+59392 26
+EPANNS Predicted sound for (59392, tone): Sine wave
+PANNS Predicted sound for (59392, tone): Sine wave
+EPANNS Predicted sound for (59392, car): Vehicle
+PANNS Predicted sound for (59392, car): Vehicle
+EPANNS Predicted sound for (59392, river+car): Vehicle
+PANNS Predicted sound for (59392, river+car): Vehicle
+EPANNS Predicted sound for (59392, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (59392, phone+voice): Music
+60416 27
+EPANNS Predicted sound for (60416, tone): Sine wave
+PANNS Predicted sound for (60416, tone): Sine wave
+EPANNS Predicted sound for (60416, car): Vehicle
+PANNS Predicted sound for (60416, car): Vehicle
+EPANNS Predicted sound for (60416, river+car): Vehicle
+PANNS Predicted sound for (60416, river+car): Vehicle
+EPANNS Predicted sound for (60416, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (60416, phone+voice): Music
+61440 28
+EPANNS Predicted sound for (61440, tone): Sine wave
+PANNS Predicted sound for (61440, tone): Sine wave
+EPANNS Predicted sound for (61440, car): Vehicle
+PANNS Predicted sound for (61440, car): Vehicle
+EPANNS Predicted sound for (61440, river+car): Vehicle
+PANNS Predicted sound for (61440, river+car): Vehicle
+EPANNS Predicted sound for (61440, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (61440, phone+voice): Telephone bell ringing
+62464 29
+EPANNS Predicted sound for (62464, tone): Sine wave
+PANNS Predicted sound for (62464, tone): Sine wave
+EPANNS Predicted sound for (62464, car): Vehicle
+PANNS Predicted sound for (62464, car): Vehicle
+EPANNS Predicted sound for (62464, river+car): Vehicle
+PANNS Predicted sound for (62464, river+car): Vehicle
+EPANNS Predicted sound for (62464, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (62464, phone+voice): Telephone bell ringing
+63488 30
+EPANNS Predicted sound for (63488, tone): Sine wave
+PANNS Predicted sound for (63488, tone): Sine wave
+EPANNS Predicted sound for (63488, car): Vehicle
+PANNS Predicted sound for (63488, car): Vehicle
+EPANNS Predicted sound for (63488, river+car): Vehicle
+PANNS Predicted sound for (63488, river+car): Vehicle
+EPANNS Predicted sound for (63488, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (63488, phone+voice): Telephone bell ringing
+64512 31
+EPANNS Predicted sound for (64512, tone): Sine wave
+PANNS Predicted sound for (64512, tone): Sine wave
+EPANNS Predicted sound for (64512, car): Vehicle
+PANNS Predicted sound for (64512, car): Vehicle
+EPANNS Predicted sound for (64512, river+car): Vehicle
+PANNS Predicted sound for (64512, river+car): Vehicle
+EPANNS Predicted sound for (64512, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (64512, phone+voice): Telephone bell ringing
+65536 32
+EPANNS Predicted sound for (65536, tone): Sine wave
+PANNS Predicted sound for (65536, tone): Sine wave
+EPANNS Predicted sound for (65536, car): Vehicle
+PANNS Predicted sound for (65536, car): Vehicle
+EPANNS Predicted sound for (65536, river+car): Vehicle
+PANNS Predicted sound for (65536, river+car): Vehicle
+EPANNS Predicted sound for (65536, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (65536, phone+voice): Telephone bell ringing
+66560 33
+EPANNS Predicted sound for (66560, tone): Sine wave
+PANNS Predicted sound for (66560, tone): Sine wave
+EPANNS Predicted sound for (66560, car): Vehicle
+PANNS Predicted sound for (66560, car): Vehicle
+EPANNS Predicted sound for (66560, river+car): Vehicle
+PANNS Predicted sound for (66560, river+car): Vehicle
+EPANNS Predicted sound for (66560, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (66560, phone+voice): Music
+67584 34
+EPANNS Predicted sound for (67584, tone): Sine wave
+PANNS Predicted sound for (67584, tone): Sine wave
+EPANNS Predicted sound for (67584, car): Vehicle
+PANNS Predicted sound for (67584, car): Vehicle
+EPANNS Predicted sound for (67584, river+car): Vehicle
+PANNS Predicted sound for (67584, river+car): Vehicle
+EPANNS Predicted sound for (67584, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (67584, phone+voice): Telephone bell ringing
+68608 35
+EPANNS Predicted sound for (68608, tone): Sine wave
+PANNS Predicted sound for (68608, tone): Sine wave
+EPANNS Predicted sound for (68608, car): Vehicle
+PANNS Predicted sound for (68608, car): Vehicle
+EPANNS Predicted sound for (68608, river+car): Vehicle
+PANNS Predicted sound for (68608, river+car): Vehicle
+EPANNS Predicted sound for (68608, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (68608, phone+voice): Music
+69632 36
+EPANNS Predicted sound for (69632, tone): Sine wave
+PANNS Predicted sound for (69632, tone): Sine wave
+EPANNS Predicted sound for (69632, car): Vehicle
+PANNS Predicted sound for (69632, car): Vehicle
+EPANNS Predicted sound for (69632, river+car): Vehicle
+PANNS Predicted sound for (69632, river+car): Vehicle
+EPANNS Predicted sound for (69632, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (69632, phone+voice): Music
+70656 37
+EPANNS Predicted sound for (70656, tone): Sine wave
+PANNS Predicted sound for (70656, tone): Sine wave
+EPANNS Predicted sound for (70656, car): Vehicle
+PANNS Predicted sound for (70656, car): Vehicle
+EPANNS Predicted sound for (70656, river+car): Vehicle
+PANNS Predicted sound for (70656, river+car): Vehicle
+EPANNS Predicted sound for (70656, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (70656, phone+voice): Music
+71680 38
+EPANNS Predicted sound for (71680, tone): Sine wave
+PANNS Predicted sound for (71680, tone): Sine wave
+EPANNS Predicted sound for (71680, car): Vehicle
+PANNS Predicted sound for (71680, car): Vehicle
+EPANNS Predicted sound for (71680, river+car): Vehicle
+PANNS Predicted sound for (71680, river+car): Vehicle
+EPANNS Predicted sound for (71680, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (71680, phone+voice): Telephone bell ringing
+72704 39
+EPANNS Predicted sound for (72704, tone): Sine wave
+PANNS Predicted sound for (72704, tone): Sine wave
+EPANNS Predicted sound for (72704, car): Vehicle
+PANNS Predicted sound for (72704, car): Vehicle
+EPANNS Predicted sound for (72704, river+car): Vehicle
+PANNS Predicted sound for (72704, river+car): Vehicle
+EPANNS Predicted sound for (72704, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (72704, phone+voice): Telephone bell ringing
+73728 40
+EPANNS Predicted sound for (73728, tone): Sine wave
+PANNS Predicted sound for (73728, tone): Sine wave
+EPANNS Predicted sound for (73728, car): Vehicle
+PANNS Predicted sound for (73728, car): Vehicle
+EPANNS Predicted sound for (73728, river+car): Vehicle
+PANNS Predicted sound for (73728, river+car): Vehicle
+EPANNS Predicted sound for (73728, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (73728, phone+voice): Telephone bell ringing
+74752 41
+EPANNS Predicted sound for (74752, tone): Sine wave
+PANNS Predicted sound for (74752, tone): Sine wave
+EPANNS Predicted sound for (74752, car): Vehicle
+PANNS Predicted sound for (74752, car): Vehicle
+EPANNS Predicted sound for (74752, river+car): Vehicle
+PANNS Predicted sound for (74752, river+car): Vehicle
+EPANNS Predicted sound for (74752, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (74752, phone+voice): Telephone bell ringing
+75776 42
+EPANNS Predicted sound for (75776, tone): Sine wave
+PANNS Predicted sound for (75776, tone): Sine wave
+EPANNS Predicted sound for (75776, car): Vehicle
+PANNS Predicted sound for (75776, car): Vehicle
+EPANNS Predicted sound for (75776, river+car): Vehicle
+PANNS Predicted sound for (75776, river+car): Vehicle
+EPANNS Predicted sound for (75776, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (75776, phone+voice): Telephone bell ringing
+76800 43
+EPANNS Predicted sound for (76800, tone): Sine wave
+PANNS Predicted sound for (76800, tone): Sine wave
+EPANNS Predicted sound for (76800, car): Vehicle
+PANNS Predicted sound for (76800, car): Vehicle
+EPANNS Predicted sound for (76800, river+car): Vehicle
+PANNS Predicted sound for (76800, river+car): Vehicle
+EPANNS Predicted sound for (76800, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (76800, phone+voice): Telephone bell ringing
+77824 44
+EPANNS Predicted sound for (77824, tone): Sine wave
+PANNS Predicted sound for (77824, tone): Sine wave
+EPANNS Predicted sound for (77824, car): Vehicle
+PANNS Predicted sound for (77824, car): Vehicle
+EPANNS Predicted sound for (77824, river+car): Vehicle
+PANNS Predicted sound for (77824, river+car): Vehicle
+EPANNS Predicted sound for (77824, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (77824, phone+voice): Telephone bell ringing
+78848 45
+EPANNS Predicted sound for (78848, tone): Sine wave
+PANNS Predicted sound for (78848, tone): Sine wave
+EPANNS Predicted sound for (78848, car): Vehicle
+PANNS Predicted sound for (78848, car): Vehicle
+EPANNS Predicted sound for (78848, river+car): Vehicle
+PANNS Predicted sound for (78848, river+car): Vehicle
+EPANNS Predicted sound for (78848, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (78848, phone+voice): Telephone bell ringing
+79872 46
+EPANNS Predicted sound for (79872, tone): Sine wave
+PANNS Predicted sound for (79872, tone): Sine wave
+EPANNS Predicted sound for (79872, car): Vehicle
+PANNS Predicted sound for (79872, car): Vehicle
+EPANNS Predicted sound for (79872, river+car): Vehicle
+PANNS Predicted sound for (79872, river+car): Vehicle
+EPANNS Predicted sound for (79872, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (79872, phone+voice): Telephone bell ringing
+80896 47
+EPANNS Predicted sound for (80896, tone): Sine wave
+PANNS Predicted sound for (80896, tone): Sine wave
+EPANNS Predicted sound for (80896, car): Vehicle
+PANNS Predicted sound for (80896, car): Vehicle
+EPANNS Predicted sound for (80896, river+car): Vehicle
+PANNS Predicted sound for (80896, river+car): Vehicle
+EPANNS Predicted sound for (80896, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (80896, phone+voice): Telephone bell ringing
+81920 48
+EPANNS Predicted sound for (81920, tone): Sine wave
+PANNS Predicted sound for (81920, tone): Sine wave
+EPANNS Predicted sound for (81920, car): Vehicle
+PANNS Predicted sound for (81920, car): Vehicle
+EPANNS Predicted sound for (81920, river+car): Vehicle
+PANNS Predicted sound for (81920, river+car): Vehicle
+EPANNS Predicted sound for (81920, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (81920, phone+voice): Telephone bell ringing
+82944 49
+EPANNS Predicted sound for (82944, tone): Sine wave
+PANNS Predicted sound for (82944, tone): Sine wave
+EPANNS Predicted sound for (82944, car): Vehicle
+PANNS Predicted sound for (82944, car): Vehicle
+EPANNS Predicted sound for (82944, river+car): Vehicle
+PANNS Predicted sound for (82944, river+car): Vehicle
+EPANNS Predicted sound for (82944, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (82944, phone+voice): Telephone bell ringing
+83968 50
+EPANNS Predicted sound for (83968, tone): Sine wave
+PANNS Predicted sound for (83968, tone): Sine wave
+EPANNS Predicted sound for (83968, car): Vehicle
+PANNS Predicted sound for (83968, car): Vehicle
+EPANNS Predicted sound for (83968, river+car): Vehicle
+PANNS Predicted sound for (83968, river+car): Vehicle
+EPANNS Predicted sound for (83968, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (83968, phone+voice): Telephone bell ringing
+84992 51
+EPANNS Predicted sound for (84992, tone): Sine wave
+PANNS Predicted sound for (84992, tone): Sine wave
+EPANNS Predicted sound for (84992, car): Vehicle
+PANNS Predicted sound for (84992, car): Vehicle
+EPANNS Predicted sound for (84992, river+car): Vehicle
+PANNS Predicted sound for (84992, river+car): Vehicle
+EPANNS Predicted sound for (84992, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (84992, phone+voice): Telephone bell ringing
+86016 52
+EPANNS Predicted sound for (86016, tone): Sine wave
+PANNS Predicted sound for (86016, tone): Sine wave
+EPANNS Predicted sound for (86016, car): Vehicle
+PANNS Predicted sound for (86016, car): Vehicle
+EPANNS Predicted sound for (86016, river+car): Vehicle
+PANNS Predicted sound for (86016, river+car): Vehicle
+EPANNS Predicted sound for (86016, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (86016, phone+voice): Telephone bell ringing
+87040 53
+EPANNS Predicted sound for (87040, tone): Sine wave
+PANNS Predicted sound for (87040, tone): Sine wave
+EPANNS Predicted sound for (87040, car): Vehicle
+PANNS Predicted sound for (87040, car): Vehicle
+EPANNS Predicted sound for (87040, river+car): Vehicle
+PANNS Predicted sound for (87040, river+car): Vehicle
+EPANNS Predicted sound for (87040, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (87040, phone+voice): Telephone bell ringing
+88064 54
+EPANNS Predicted sound for (88064, tone): Sine wave
+PANNS Predicted sound for (88064, tone): Sine wave
+EPANNS Predicted sound for (88064, car): Vehicle
+PANNS Predicted sound for (88064, car): Vehicle
+EPANNS Predicted sound for (88064, river+car): Vehicle
+PANNS Predicted sound for (88064, river+car): Vehicle
+EPANNS Predicted sound for (88064, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (88064, phone+voice): Telephone bell ringing
+89088 55
+EPANNS Predicted sound for (89088, tone): Sine wave
+PANNS Predicted sound for (89088, tone): Sine wave
+EPANNS Predicted sound for (89088, car): Vehicle
+PANNS Predicted sound for (89088, car): Vehicle
+EPANNS Predicted sound for (89088, river+car): Vehicle
+PANNS Predicted sound for (89088, river+car): Vehicle
+EPANNS Predicted sound for (89088, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (89088, phone+voice): Telephone bell ringing
+90112 56
+EPANNS Predicted sound for (90112, tone): Sine wave
+PANNS Predicted sound for (90112, tone): Sine wave
+EPANNS Predicted sound for (90112, car): Vehicle
+PANNS Predicted sound for (90112, car): Vehicle
+EPANNS Predicted sound for (90112, river+car): Vehicle
+PANNS Predicted sound for (90112, river+car): Vehicle
+EPANNS Predicted sound for (90112, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (90112, phone+voice): Telephone bell ringing
+91136 57
+EPANNS Predicted sound for (91136, tone): Sine wave
+PANNS Predicted sound for (91136, tone): Sine wave
+EPANNS Predicted sound for (91136, car): Vehicle
+PANNS Predicted sound for (91136, car): Vehicle
+EPANNS Predicted sound for (91136, river+car): Vehicle
+PANNS Predicted sound for (91136, river+car): Vehicle
+EPANNS Predicted sound for (91136, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (91136, phone+voice): Telephone bell ringing
+92160 58
+EPANNS Predicted sound for (92160, tone): Sine wave
+PANNS Predicted sound for (92160, tone): Sine wave
+EPANNS Predicted sound for (92160, car): Vehicle
+PANNS Predicted sound for (92160, car): Vehicle
+EPANNS Predicted sound for (92160, river+car): Vehicle
+PANNS Predicted sound for (92160, river+car): Vehicle
+EPANNS Predicted sound for (92160, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (92160, phone+voice): Telephone bell ringing
+93184 59
+EPANNS Predicted sound for (93184, tone): Sine wave
+PANNS Predicted sound for (93184, tone): Sine wave
+EPANNS Predicted sound for (93184, car): Vehicle
+PANNS Predicted sound for (93184, car): Vehicle
+EPANNS Predicted sound for (93184, river+car): Vehicle
+PANNS Predicted sound for (93184, river+car): Vehicle
+EPANNS Predicted sound for (93184, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (93184, phone+voice): Telephone bell ringing
+94208 60
+EPANNS Predicted sound for (94208, tone): Sine wave
+PANNS Predicted sound for (94208, tone): Sine wave
+EPANNS Predicted sound for (94208, car): Vehicle
+PANNS Predicted sound for (94208, car): Vehicle
+EPANNS Predicted sound for (94208, river+car): Vehicle
+PANNS Predicted sound for (94208, river+car): Vehicle
+EPANNS Predicted sound for (94208, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (94208, phone+voice): Telephone bell ringing
+95232 61
+EPANNS Predicted sound for (95232, tone): Sine wave
+PANNS Predicted sound for (95232, tone): Sine wave
+EPANNS Predicted sound for (95232, car): Vehicle
+PANNS Predicted sound for (95232, car): Vehicle
+EPANNS Predicted sound for (95232, river+car): Vehicle
+PANNS Predicted sound for (95232, river+car): Vehicle
+EPANNS Predicted sound for (95232, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (95232, phone+voice): Telephone bell ringing
+96256 62
+EPANNS Predicted sound for (96256, tone): Sine wave
+PANNS Predicted sound for (96256, tone): Sine wave
+EPANNS Predicted sound for (96256, car): Vehicle
+PANNS Predicted sound for (96256, car): Vehicle
+EPANNS Predicted sound for (96256, river+car): Vehicle
+PANNS Predicted sound for (96256, river+car): Vehicle
+EPANNS Predicted sound for (96256, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (96256, phone+voice): Telephone bell ringing
+97280 63
+EPANNS Predicted sound for (97280, tone): Sine wave
+PANNS Predicted sound for (97280, tone): Sine wave
+EPANNS Predicted sound for (97280, car): Vehicle
+PANNS Predicted sound for (97280, car): Vehicle
+EPANNS Predicted sound for (97280, river+car): Vehicle
+PANNS Predicted sound for (97280, river+car): Vehicle
+EPANNS Predicted sound for (97280, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (97280, phone+voice): Telephone bell ringing
+98304 64
+EPANNS Predicted sound for (98304, tone): Sine wave
+PANNS Predicted sound for (98304, tone): Sine wave
+EPANNS Predicted sound for (98304, car): Vehicle
+PANNS Predicted sound for (98304, car): Vehicle
+EPANNS Predicted sound for (98304, river+car): Vehicle
+PANNS Predicted sound for (98304, river+car): Vehicle
+EPANNS Predicted sound for (98304, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (98304, phone+voice): Telephone bell ringing
+99328 65
+EPANNS Predicted sound for (99328, tone): Sine wave
+PANNS Predicted sound for (99328, tone): Sine wave
+EPANNS Predicted sound for (99328, car): Vehicle
+PANNS Predicted sound for (99328, car): Vehicle
+EPANNS Predicted sound for (99328, river+car): Vehicle
+PANNS Predicted sound for (99328, river+car): Vehicle
+EPANNS Predicted sound for (99328, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (99328, phone+voice): Telephone bell ringing
+100352 66
+EPANNS Predicted sound for (100352, tone): Sine wave
+PANNS Predicted sound for (100352, tone): Sine wave
+EPANNS Predicted sound for (100352, car): Vehicle
+PANNS Predicted sound for (100352, car): Vehicle
+EPANNS Predicted sound for (100352, river+car): Vehicle
+PANNS Predicted sound for (100352, river+car): Vehicle
+EPANNS Predicted sound for (100352, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (100352, phone+voice): Telephone bell ringing
+101376 67
+EPANNS Predicted sound for (101376, tone): Sine wave
+PANNS Predicted sound for (101376, tone): Sine wave
+EPANNS Predicted sound for (101376, car): Vehicle
+PANNS Predicted sound for (101376, car): Vehicle
+EPANNS Predicted sound for (101376, river+car): Vehicle
+PANNS Predicted sound for (101376, river+car): Vehicle
+EPANNS Predicted sound for (101376, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (101376, phone+voice): Telephone bell ringing
+102400 68
+EPANNS Predicted sound for (102400, tone): Sine wave
+PANNS Predicted sound for (102400, tone): Sine wave
+EPANNS Predicted sound for (102400, car): Vehicle
+PANNS Predicted sound for (102400, car): Vehicle
+EPANNS Predicted sound for (102400, river+car): Vehicle
+PANNS Predicted sound for (102400, river+car): Waves, surf
+EPANNS Predicted sound for (102400, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (102400, phone+voice): Telephone bell ringing
+103424 69
+EPANNS Predicted sound for (103424, tone): Sine wave
+PANNS Predicted sound for (103424, tone): Sine wave
+EPANNS Predicted sound for (103424, car): Vehicle
+PANNS Predicted sound for (103424, car): Vehicle
+EPANNS Predicted sound for (103424, river+car): Vehicle
+PANNS Predicted sound for (103424, river+car): Waves, surf
+EPANNS Predicted sound for (103424, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (103424, phone+voice): Telephone bell ringing
+104448 70
+EPANNS Predicted sound for (104448, tone): Sine wave
+PANNS Predicted sound for (104448, tone): Sine wave
+EPANNS Predicted sound for (104448, car): Vehicle
+PANNS Predicted sound for (104448, car): Vehicle
+EPANNS Predicted sound for (104448, river+car): Vehicle
+PANNS Predicted sound for (104448, river+car): Waves, surf
+EPANNS Predicted sound for (104448, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (104448, phone+voice): Telephone bell ringing
+105472 71
+EPANNS Predicted sound for (105472, tone): Sine wave
+PANNS Predicted sound for (105472, tone): Sine wave
+EPANNS Predicted sound for (105472, car): Vehicle
+PANNS Predicted sound for (105472, car): Vehicle
+EPANNS Predicted sound for (105472, river+car): Vehicle
+PANNS Predicted sound for (105472, river+car): Waves, surf
+EPANNS Predicted sound for (105472, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (105472, phone+voice): Telephone bell ringing
+106496 72
+EPANNS Predicted sound for (106496, tone): Sine wave
+PANNS Predicted sound for (106496, tone): Sine wave
+EPANNS Predicted sound for (106496, car): Vehicle
+PANNS Predicted sound for (106496, car): Vehicle
+EPANNS Predicted sound for (106496, river+car): Vehicle
+PANNS Predicted sound for (106496, river+car): Waves, surf
+EPANNS Predicted sound for (106496, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (106496, phone+voice): Telephone bell ringing
+107520 73
+EPANNS Predicted sound for (107520, tone): Sine wave
+PANNS Predicted sound for (107520, tone): Sine wave
+EPANNS Predicted sound for (107520, car): Vehicle
+PANNS Predicted sound for (107520, car): Vehicle
+EPANNS Predicted sound for (107520, river+car): Vehicle
+PANNS Predicted sound for (107520, river+car): Waves, surf
+EPANNS Predicted sound for (107520, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (107520, phone+voice): Telephone bell ringing
+108544 74
+EPANNS Predicted sound for (108544, tone): Sine wave
+PANNS Predicted sound for (108544, tone): Sine wave
+EPANNS Predicted sound for (108544, car): Vehicle
+PANNS Predicted sound for (108544, car): Vehicle
+EPANNS Predicted sound for (108544, river+car): Vehicle
+PANNS Predicted sound for (108544, river+car): Waves, surf
+EPANNS Predicted sound for (108544, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (108544, phone+voice): Telephone bell ringing
+109568 75
+EPANNS Predicted sound for (109568, tone): Sine wave
+PANNS Predicted sound for (109568, tone): Sine wave
+EPANNS Predicted sound for (109568, car): Vehicle
+PANNS Predicted sound for (109568, car): Vehicle
+EPANNS Predicted sound for (109568, river+car): Vehicle
+PANNS Predicted sound for (109568, river+car): Waves, surf
+EPANNS Predicted sound for (109568, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (109568, phone+voice): Telephone bell ringing
+110592 76
+EPANNS Predicted sound for (110592, tone): Sine wave
+PANNS Predicted sound for (110592, tone): Sine wave
+EPANNS Predicted sound for (110592, car): Vehicle
+PANNS Predicted sound for (110592, car): Vehicle
+EPANNS Predicted sound for (110592, river+car): Vehicle
+PANNS Predicted sound for (110592, river+car): Waves, surf
+EPANNS Predicted sound for (110592, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (110592, phone+voice): Telephone bell ringing
+111616 77
+EPANNS Predicted sound for (111616, tone): Sine wave
+PANNS Predicted sound for (111616, tone): Sine wave
+EPANNS Predicted sound for (111616, car): Vehicle
+PANNS Predicted sound for (111616, car): Vehicle
+EPANNS Predicted sound for (111616, river+car): Vehicle
+PANNS Predicted sound for (111616, river+car): Waves, surf
+EPANNS Predicted sound for (111616, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (111616, phone+voice): Telephone bell ringing
+112640 78
+EPANNS Predicted sound for (112640, tone): Sine wave
+PANNS Predicted sound for (112640, tone): Sine wave
+EPANNS Predicted sound for (112640, car): Vehicle
+PANNS Predicted sound for (112640, car): Vehicle
+EPANNS Predicted sound for (112640, river+car): Vehicle
+PANNS Predicted sound for (112640, river+car): Vehicle
+EPANNS Predicted sound for (112640, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (112640, phone+voice): Telephone bell ringing
+113664 79
+EPANNS Predicted sound for (113664, tone): Sine wave
+PANNS Predicted sound for (113664, tone): Sine wave
+EPANNS Predicted sound for (113664, car): Vehicle
+PANNS Predicted sound for (113664, car): Vehicle
+EPANNS Predicted sound for (113664, river+car): Vehicle
+PANNS Predicted sound for (113664, river+car): Waves, surf
+EPANNS Predicted sound for (113664, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (113664, phone+voice): Telephone bell ringing
+114688 80
+EPANNS Predicted sound for (114688, tone): Sine wave
+PANNS Predicted sound for (114688, tone): Sine wave
+EPANNS Predicted sound for (114688, car): Vehicle
+PANNS Predicted sound for (114688, car): Vehicle
+EPANNS Predicted sound for (114688, river+car): Vehicle
+PANNS Predicted sound for (114688, river+car): Waves, surf
+EPANNS Predicted sound for (114688, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (114688, phone+voice): Telephone bell ringing
+115712 81
+EPANNS Predicted sound for (115712, tone): Sine wave
+PANNS Predicted sound for (115712, tone): Sine wave
+EPANNS Predicted sound for (115712, car): Vehicle
+PANNS Predicted sound for (115712, car): Vehicle
+EPANNS Predicted sound for (115712, river+car): Vehicle
+PANNS Predicted sound for (115712, river+car): Waves, surf
+EPANNS Predicted sound for (115712, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (115712, phone+voice): Telephone bell ringing
+116736 82
+EPANNS Predicted sound for (116736, tone): Sine wave
+PANNS Predicted sound for (116736, tone): Sine wave
+EPANNS Predicted sound for (116736, car): Vehicle
+PANNS Predicted sound for (116736, car): Vehicle
+EPANNS Predicted sound for (116736, river+car): Vehicle
+PANNS Predicted sound for (116736, river+car): Waves, surf
+EPANNS Predicted sound for (116736, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (116736, phone+voice): Telephone bell ringing
+117760 83
+EPANNS Predicted sound for (117760, tone): Sine wave
+PANNS Predicted sound for (117760, tone): Sine wave
+EPANNS Predicted sound for (117760, car): Vehicle
+PANNS Predicted sound for (117760, car): Vehicle
+EPANNS Predicted sound for (117760, river+car): Vehicle
+PANNS Predicted sound for (117760, river+car): Vehicle
+EPANNS Predicted sound for (117760, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (117760, phone+voice): Telephone bell ringing
+118784 84
+EPANNS Predicted sound for (118784, tone): Sine wave
+PANNS Predicted sound for (118784, tone): Sine wave
+EPANNS Predicted sound for (118784, car): Vehicle
+PANNS Predicted sound for (118784, car): Vehicle
+EPANNS Predicted sound for (118784, river+car): Vehicle
+PANNS Predicted sound for (118784, river+car): Vehicle
+EPANNS Predicted sound for (118784, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (118784, phone+voice): Telephone bell ringing
+119808 85
+EPANNS Predicted sound for (119808, tone): Sine wave
+PANNS Predicted sound for (119808, tone): Sine wave
+EPANNS Predicted sound for (119808, car): Vehicle
+PANNS Predicted sound for (119808, car): Vehicle
+EPANNS Predicted sound for (119808, river+car): Vehicle
+PANNS Predicted sound for (119808, river+car): Waves, surf
+EPANNS Predicted sound for (119808, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (119808, phone+voice): Telephone bell ringing
+120832 86
+EPANNS Predicted sound for (120832, tone): Sine wave
+PANNS Predicted sound for (120832, tone): Sine wave
+EPANNS Predicted sound for (120832, car): Vehicle
+PANNS Predicted sound for (120832, car): Vehicle
+EPANNS Predicted sound for (120832, river+car): Vehicle
+PANNS Predicted sound for (120832, river+car): Vehicle
+EPANNS Predicted sound for (120832, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (120832, phone+voice): Telephone bell ringing
+121856 87
+EPANNS Predicted sound for (121856, tone): Sine wave
+PANNS Predicted sound for (121856, tone): Sine wave
+EPANNS Predicted sound for (121856, car): Vehicle
+PANNS Predicted sound for (121856, car): Vehicle
+EPANNS Predicted sound for (121856, river+car): Vehicle
+PANNS Predicted sound for (121856, river+car): Waves, surf
+EPANNS Predicted sound for (121856, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (121856, phone+voice): Telephone bell ringing
+122880 88
+EPANNS Predicted sound for (122880, tone): Sine wave
+PANNS Predicted sound for (122880, tone): Sine wave
+EPANNS Predicted sound for (122880, car): Vehicle
+PANNS Predicted sound for (122880, car): Vehicle
+EPANNS Predicted sound for (122880, river+car): Vehicle
+PANNS Predicted sound for (122880, river+car): Vehicle
+EPANNS Predicted sound for (122880, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (122880, phone+voice): Telephone bell ringing
+123904 89
+EPANNS Predicted sound for (123904, tone): Sine wave
+PANNS Predicted sound for (123904, tone): Sine wave
+EPANNS Predicted sound for (123904, car): Vehicle
+PANNS Predicted sound for (123904, car): Vehicle
+EPANNS Predicted sound for (123904, river+car): Vehicle
+PANNS Predicted sound for (123904, river+car): Vehicle
+EPANNS Predicted sound for (123904, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (123904, phone+voice): Telephone bell ringing
+124928 90
+EPANNS Predicted sound for (124928, tone): Sine wave
+PANNS Predicted sound for (124928, tone): Sine wave
+EPANNS Predicted sound for (124928, car): Vehicle
+PANNS Predicted sound for (124928, car): Vehicle
+EPANNS Predicted sound for (124928, river+car): Vehicle
+PANNS Predicted sound for (124928, river+car): Vehicle
+EPANNS Predicted sound for (124928, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (124928, phone+voice): Telephone bell ringing
+125952 91
+EPANNS Predicted sound for (125952, tone): Sine wave
+PANNS Predicted sound for (125952, tone): Sine wave
+EPANNS Predicted sound for (125952, car): Vehicle
+PANNS Predicted sound for (125952, car): Vehicle
+EPANNS Predicted sound for (125952, river+car): Vehicle
+PANNS Predicted sound for (125952, river+car): Vehicle
+EPANNS Predicted sound for (125952, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (125952, phone+voice): Telephone bell ringing
+126976 92
+EPANNS Predicted sound for (126976, tone): Sine wave
+PANNS Predicted sound for (126976, tone): Sine wave
+EPANNS Predicted sound for (126976, car): Vehicle
+PANNS Predicted sound for (126976, car): Vehicle
+EPANNS Predicted sound for (126976, river+car): Vehicle
+PANNS Predicted sound for (126976, river+car): Vehicle
+EPANNS Predicted sound for (126976, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (126976, phone+voice): Telephone bell ringing
+128000 93
+EPANNS Predicted sound for (128000, tone): Sine wave
+PANNS Predicted sound for (128000, tone): Sine wave
+EPANNS Predicted sound for (128000, car): Vehicle
+PANNS Predicted sound for (128000, car): Vehicle
+EPANNS Predicted sound for (128000, river+car): Vehicle
+PANNS Predicted sound for (128000, river+car): Vehicle
+EPANNS Predicted sound for (128000, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (128000, phone+voice): Telephone bell ringing
+129024 94
+EPANNS Predicted sound for (129024, tone): Sine wave
+PANNS Predicted sound for (129024, tone): Sine wave
+EPANNS Predicted sound for (129024, car): Vehicle
+PANNS Predicted sound for (129024, car): Vehicle
+EPANNS Predicted sound for (129024, river+car): Vehicle
+PANNS Predicted sound for (129024, river+car): Vehicle
+EPANNS Predicted sound for (129024, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (129024, phone+voice): Telephone bell ringing
+130048 95
+EPANNS Predicted sound for (130048, tone): Sine wave
+PANNS Predicted sound for (130048, tone): Sine wave
+EPANNS Predicted sound for (130048, car): Vehicle
+PANNS Predicted sound for (130048, car): Vehicle
+EPANNS Predicted sound for (130048, river+car): Vehicle
+PANNS Predicted sound for (130048, river+car): Vehicle
+EPANNS Predicted sound for (130048, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (130048, phone+voice): Telephone bell ringing
+131072 96
+EPANNS Predicted sound for (131072, tone): Sine wave
+PANNS Predicted sound for (131072, tone): Sine wave
+EPANNS Predicted sound for (131072, car): Vehicle
+PANNS Predicted sound for (131072, car): Vehicle
+EPANNS Predicted sound for (131072, river+car): Vehicle
+PANNS Predicted sound for (131072, river+car): Vehicle
+EPANNS Predicted sound for (131072, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (131072, phone+voice): Telephone bell ringing
+132096 97
+EPANNS Predicted sound for (132096, tone): Sine wave
+PANNS Predicted sound for (132096, tone): Sine wave
+EPANNS Predicted sound for (132096, car): Vehicle
+PANNS Predicted sound for (132096, car): Vehicle
+EPANNS Predicted sound for (132096, river+car): Vehicle
+PANNS Predicted sound for (132096, river+car): Vehicle
+EPANNS Predicted sound for (132096, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (132096, phone+voice): Telephone bell ringing
+133120 98
+EPANNS Predicted sound for (133120, tone): Sine wave
+PANNS Predicted sound for (133120, tone): Sine wave
+EPANNS Predicted sound for (133120, car): Vehicle
+PANNS Predicted sound for (133120, car): Vehicle
+EPANNS Predicted sound for (133120, river+car): Vehicle
+PANNS Predicted sound for (133120, river+car): Vehicle
+EPANNS Predicted sound for (133120, phone+voice): Speech
+PANNS Predicted sound for (133120, phone+voice): Speech
+134144 99
+EPANNS Predicted sound for (134144, tone): Sine wave
+PANNS Predicted sound for (134144, tone): Sine wave
+EPANNS Predicted sound for (134144, car): Vehicle
+PANNS Predicted sound for (134144, car): Vehicle
+EPANNS Predicted sound for (134144, river+car): Vehicle
+PANNS Predicted sound for (134144, river+car): Vehicle
+EPANNS Predicted sound for (134144, phone+voice): Speech
+PANNS Predicted sound for (134144, phone+voice): SpeechEPANNS Predicted sound for (32768, tone): Sine wave
+PANNS Predicted sound for (32768, tone): Sine wave
+EPANNS Predicted sound for (32768, car): Music
+PANNS Predicted sound for (32768, car): Music
+EPANNS Predicted sound for (32768, river+car): Boat, Water vehicle
+PANNS Predicted sound for (32768, river+car): Waves, surf
+EPANNS Predicted sound for (32768, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (32768, phone+voice): Telephone bell ringing
+33792 1
+EPANNS Predicted sound for (33792, tone): Sine wave
+PANNS Predicted sound for (33792, tone): Sine wave
+EPANNS Predicted sound for (33792, car): Music
+PANNS Predicted sound for (33792, car): Music
+EPANNS Predicted sound for (33792, river+car): Boat, Water vehicle
+PANNS Predicted sound for (33792, river+car): Waves, surf
+EPANNS Predicted sound for (33792, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (33792, phone+voice): Telephone bell ringing
+34816 2
+EPANNS Predicted sound for (34816, tone): Sine wave
+PANNS Predicted sound for (34816, tone): Sine wave
+EPANNS Predicted sound for (34816, car): Music
+PANNS Predicted sound for (34816, car): Music
+EPANNS Predicted sound for (34816, river+car): Boat, Water vehicle
+PANNS Predicted sound for (34816, river+car): Waves, surf
+EPANNS Predicted sound for (34816, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (34816, phone+voice): Telephone bell ringing
+35840 3
+EPANNS Predicted sound for (35840, tone): Sine wave
+PANNS Predicted sound for (35840, tone): Sine wave
+EPANNS Predicted sound for (35840, car): Music
+PANNS Predicted sound for (35840, car): Music
+EPANNS Predicted sound for (35840, river+car): Boat, Water vehicle
+PANNS Predicted sound for (35840, river+car): Vehicle
+EPANNS Predicted sound for (35840, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (35840, phone+voice): Music
+36864 4
+EPANNS Predicted sound for (36864, tone): Sine wave
+PANNS Predicted sound for (36864, tone): Sine wave
+EPANNS Predicted sound for (36864, car): Music
+PANNS Predicted sound for (36864, car): Music
+EPANNS Predicted sound for (36864, river+car): Boat, Water vehicle
+PANNS Predicted sound for (36864, river+car): Vehicle
+EPANNS Predicted sound for (36864, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (36864, phone+voice): Music
+37888 5
+EPANNS Predicted sound for (37888, tone): Sine wave
+PANNS Predicted sound for (37888, tone): Sine wave
+EPANNS Predicted sound for (37888, car): Music
+PANNS Predicted sound for (37888, car): Music
+EPANNS Predicted sound for (37888, river+car): Boat, Water vehicle
+PANNS Predicted sound for (37888, river+car): Vehicle
+EPANNS Predicted sound for (37888, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (37888, phone+voice): Music
+38912 6
+EPANNS Predicted sound for (38912, tone): Sine wave
+PANNS Predicted sound for (38912, tone): Sine wave
+EPANNS Predicted sound for (38912, car): Music
+PANNS Predicted sound for (38912, car): Music
+EPANNS Predicted sound for (38912, river+car): Boat, Water vehicle
+PANNS Predicted sound for (38912, river+car): Vehicle
+EPANNS Predicted sound for (38912, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (38912, phone+voice): Music
+39936 7
+EPANNS Predicted sound for (39936, tone): Sine wave
+PANNS Predicted sound for (39936, tone): Sine wave
+EPANNS Predicted sound for (39936, car): Music
+PANNS Predicted sound for (39936, car): Music
+EPANNS Predicted sound for (39936, river+car): Boat, Water vehicle
+PANNS Predicted sound for (39936, river+car): Waves, surf
+EPANNS Predicted sound for (39936, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (39936, phone+voice): Music
+40960 8
+EPANNS Predicted sound for (40960, tone): Sine wave
+PANNS Predicted sound for (40960, tone): Sine wave
+EPANNS Predicted sound for (40960, car): Vehicle
+PANNS Predicted sound for (40960, car): Vehicle
+EPANNS Predicted sound for (40960, river+car): Vehicle
+PANNS Predicted sound for (40960, river+car): Vehicle
+EPANNS Predicted sound for (40960, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (40960, phone+voice): Telephone bell ringing
+41984 9
+EPANNS Predicted sound for (41984, tone): Sine wave
+PANNS Predicted sound for (41984, tone): Sine wave
+EPANNS Predicted sound for (41984, car): Silence
+PANNS Predicted sound for (41984, car): Vehicle
+EPANNS Predicted sound for (41984, river+car): Vehicle
+PANNS Predicted sound for (41984, river+car): Vehicle
+EPANNS Predicted sound for (41984, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (41984, phone+voice): Telephone bell ringing
+43008 10
+EPANNS Predicted sound for (43008, tone): Sine wave
+PANNS Predicted sound for (43008, tone): Sine wave
+EPANNS Predicted sound for (43008, car): Silence
+PANNS Predicted sound for (43008, car): Vehicle
+EPANNS Predicted sound for (43008, river+car): Vehicle
+PANNS Predicted sound for (43008, river+car): Vehicle
+EPANNS Predicted sound for (43008, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (43008, phone+voice): Telephone bell ringing
+44032 11
+EPANNS Predicted sound for (44032, tone): Sine wave
+PANNS Predicted sound for (44032, tone): Sine wave
+EPANNS Predicted sound for (44032, car): Vehicle
+PANNS Predicted sound for (44032, car): Vehicle
+EPANNS Predicted sound for (44032, river+car): Vehicle
+PANNS Predicted sound for (44032, river+car): Vehicle
+EPANNS Predicted sound for (44032, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (44032, phone+voice): Telephone bell ringing
+45056 12
+EPANNS Predicted sound for (45056, tone): Sine wave
+PANNS Predicted sound for (45056, tone): Sine wave
+EPANNS Predicted sound for (45056, car): Vehicle
+PANNS Predicted sound for (45056, car): Vehicle
+EPANNS Predicted sound for (45056, river+car): Vehicle
+PANNS Predicted sound for (45056, river+car): Vehicle
+EPANNS Predicted sound for (45056, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (45056, phone+voice): Telephone bell ringing
+46080 13
+EPANNS Predicted sound for (46080, tone): Sine wave
+PANNS Predicted sound for (46080, tone): Sine wave
+EPANNS Predicted sound for (46080, car): Silence
+PANNS Predicted sound for (46080, car): Vehicle
+EPANNS Predicted sound for (46080, river+car): Vehicle
+PANNS Predicted sound for (46080, river+car): Vehicle
+EPANNS Predicted sound for (46080, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (46080, phone+voice): Music
+47104 14
+EPANNS Predicted sound for (47104, tone): Sine wave
+PANNS Predicted sound for (47104, tone): Sine wave
+EPANNS Predicted sound for (47104, car): Silence
+PANNS Predicted sound for (47104, car): Vehicle
+EPANNS Predicted sound for (47104, river+car): Vehicle
+PANNS Predicted sound for (47104, river+car): Vehicle
+EPANNS Predicted sound for (47104, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (47104, phone+voice): Music
+48128 15
+EPANNS Predicted sound for (48128, tone): Sine wave
+PANNS Predicted sound for (48128, tone): Sine wave
+EPANNS Predicted sound for (48128, car): Silence
+PANNS Predicted sound for (48128, car): Vehicle
+EPANNS Predicted sound for (48128, river+car): Vehicle
+PANNS Predicted sound for (48128, river+car): Vehicle
+EPANNS Predicted sound for (48128, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (48128, phone+voice): Music
+49152 16
+EPANNS Predicted sound for (49152, tone): Sine wave
+PANNS Predicted sound for (49152, tone): Sine wave
+EPANNS Predicted sound for (49152, car): Silence
+PANNS Predicted sound for (49152, car): Vehicle
+EPANNS Predicted sound for (49152, river+car): Vehicle
+PANNS Predicted sound for (49152, river+car): Vehicle
+EPANNS Predicted sound for (49152, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (49152, phone+voice): Music
+50176 17
+EPANNS Predicted sound for (50176, tone): Sine wave
+PANNS Predicted sound for (50176, tone): Sine wave
+EPANNS Predicted sound for (50176, car): Silence
+PANNS Predicted sound for (50176, car): Vehicle
+EPANNS Predicted sound for (50176, river+car): Vehicle
+PANNS Predicted sound for (50176, river+car): Vehicle
+EPANNS Predicted sound for (50176, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (50176, phone+voice): Music
+51200 18
+EPANNS Predicted sound for (51200, tone): Sine wave
+PANNS Predicted sound for (51200, tone): Sine wave
+EPANNS Predicted sound for (51200, car): Vehicle
+PANNS Predicted sound for (51200, car): Vehicle
+EPANNS Predicted sound for (51200, river+car): Vehicle
+PANNS Predicted sound for (51200, river+car): Vehicle
+EPANNS Predicted sound for (51200, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (51200, phone+voice): Telephone bell ringing
+52224 19
+EPANNS Predicted sound for (52224, tone): Sine wave
+PANNS Predicted sound for (52224, tone): Sine wave
+EPANNS Predicted sound for (52224, car): Vehicle
+PANNS Predicted sound for (52224, car): Vehicle
+EPANNS Predicted sound for (52224, river+car): Vehicle
+PANNS Predicted sound for (52224, river+car): Vehicle
+EPANNS Predicted sound for (52224, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (52224, phone+voice): Telephone bell ringing
+53248 20
+EPANNS Predicted sound for (53248, tone): Sine wave
+PANNS Predicted sound for (53248, tone): Sine wave
+EPANNS Predicted sound for (53248, car): Vehicle
+PANNS Predicted sound for (53248, car): Vehicle
+EPANNS Predicted sound for (53248, river+car): Vehicle
+PANNS Predicted sound for (53248, river+car): Vehicle
+EPANNS Predicted sound for (53248, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (53248, phone+voice): Telephone bell ringing
+54272 21
+EPANNS Predicted sound for (54272, tone): Sine wave
+PANNS Predicted sound for (54272, tone): Sine wave
+EPANNS Predicted sound for (54272, car): Vehicle
+PANNS Predicted sound for (54272, car): Vehicle
+EPANNS Predicted sound for (54272, river+car): Vehicle
+PANNS Predicted sound for (54272, river+car): Vehicle
+EPANNS Predicted sound for (54272, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (54272, phone+voice): Telephone bell ringing
+55296 22
+EPANNS Predicted sound for (55296, tone): Sine wave
+PANNS Predicted sound for (55296, tone): Sine wave
+EPANNS Predicted sound for (55296, car): Vehicle
+PANNS Predicted sound for (55296, car): Vehicle
+EPANNS Predicted sound for (55296, river+car): Vehicle
+PANNS Predicted sound for (55296, river+car): Vehicle
+EPANNS Predicted sound for (55296, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (55296, phone+voice): Telephone bell ringing
+56320 23
+EPANNS Predicted sound for (56320, tone): Sine wave
+PANNS Predicted sound for (56320, tone): Sine wave
+EPANNS Predicted sound for (56320, car): Vehicle
+PANNS Predicted sound for (56320, car): Vehicle
+EPANNS Predicted sound for (56320, river+car): Vehicle
+PANNS Predicted sound for (56320, river+car): Vehicle
+EPANNS Predicted sound for (56320, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (56320, phone+voice): Music
+57344 24
+EPANNS Predicted sound for (57344, tone): Sine wave
+PANNS Predicted sound for (57344, tone): Sine wave
+EPANNS Predicted sound for (57344, car): Vehicle
+PANNS Predicted sound for (57344, car): Vehicle
+EPANNS Predicted sound for (57344, river+car): Vehicle
+PANNS Predicted sound for (57344, river+car): Vehicle
+EPANNS Predicted sound for (57344, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (57344, phone+voice): Music
+58368 25
+EPANNS Predicted sound for (58368, tone): Sine wave
+PANNS Predicted sound for (58368, tone): Sine wave
+EPANNS Predicted sound for (58368, car): Vehicle
+PANNS Predicted sound for (58368, car): Vehicle
+EPANNS Predicted sound for (58368, river+car): Vehicle
+PANNS Predicted sound for (58368, river+car): Vehicle
+EPANNS Predicted sound for (58368, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (58368, phone+voice): Music
+59392 26
+EPANNS Predicted sound for (59392, tone): Sine wave
+PANNS Predicted sound for (59392, tone): Sine wave
+EPANNS Predicted sound for (59392, car): Vehicle
+PANNS Predicted sound for (59392, car): Vehicle
+EPANNS Predicted sound for (59392, river+car): Vehicle
+PANNS Predicted sound for (59392, river+car): Vehicle
+EPANNS Predicted sound for (59392, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (59392, phone+voice): Music
+60416 27
+EPANNS Predicted sound for (60416, tone): Sine wave
+PANNS Predicted sound for (60416, tone): Sine wave
+EPANNS Predicted sound for (60416, car): Vehicle
+PANNS Predicted sound for (60416, car): Vehicle
+EPANNS Predicted sound for (60416, river+car): Vehicle
+PANNS Predicted sound for (60416, river+car): Vehicle
+EPANNS Predicted sound for (60416, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (60416, phone+voice): Music
+61440 28
+EPANNS Predicted sound for (61440, tone): Sine wave
+PANNS Predicted sound for (61440, tone): Sine wave
+EPANNS Predicted sound for (61440, car): Vehicle
+PANNS Predicted sound for (61440, car): Vehicle
+EPANNS Predicted sound for (61440, river+car): Vehicle
+PANNS Predicted sound for (61440, river+car): Vehicle
+EPANNS Predicted sound for (61440, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (61440, phone+voice): Telephone bell ringing
+62464 29
+EPANNS Predicted sound for (62464, tone): Sine wave
+PANNS Predicted sound for (62464, tone): Sine wave
+EPANNS Predicted sound for (62464, car): Vehicle
+PANNS Predicted sound for (62464, car): Vehicle
+EPANNS Predicted sound for (62464, river+car): Vehicle
+PANNS Predicted sound for (62464, river+car): Vehicle
+EPANNS Predicted sound for (62464, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (62464, phone+voice): Telephone bell ringing
+63488 30
+EPANNS Predicted sound for (63488, tone): Sine wave
+PANNS Predicted sound for (63488, tone): Sine wave
+EPANNS Predicted sound for (63488, car): Vehicle
+PANNS Predicted sound for (63488, car): Vehicle
+EPANNS Predicted sound for (63488, river+car): Vehicle
+PANNS Predicted sound for (63488, river+car): Vehicle
+EPANNS Predicted sound for (63488, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (63488, phone+voice): Telephone bell ringing
+64512 31
+EPANNS Predicted sound for (64512, tone): Sine wave
+PANNS Predicted sound for (64512, tone): Sine wave
+EPANNS Predicted sound for (64512, car): Vehicle
+PANNS Predicted sound for (64512, car): Vehicle
+EPANNS Predicted sound for (64512, river+car): Vehicle
+PANNS Predicted sound for (64512, river+car): Vehicle
+EPANNS Predicted sound for (64512, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (64512, phone+voice): Telephone bell ringing
+65536 32
+EPANNS Predicted sound for (65536, tone): Sine wave
+PANNS Predicted sound for (65536, tone): Sine wave
+EPANNS Predicted sound for (65536, car): Vehicle
+PANNS Predicted sound for (65536, car): Vehicle
+EPANNS Predicted sound for (65536, river+car): Vehicle
+PANNS Predicted sound for (65536, river+car): Vehicle
+EPANNS Predicted sound for (65536, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (65536, phone+voice): Telephone bell ringing
+66560 33
+EPANNS Predicted sound for (66560, tone): Sine wave
+PANNS Predicted sound for (66560, tone): Sine wave
+EPANNS Predicted sound for (66560, car): Vehicle
+PANNS Predicted sound for (66560, car): Vehicle
+EPANNS Predicted sound for (66560, river+car): Vehicle
+PANNS Predicted sound for (66560, river+car): Vehicle
+EPANNS Predicted sound for (66560, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (66560, phone+voice): Music
+67584 34
+EPANNS Predicted sound for (67584, tone): Sine wave
+PANNS Predicted sound for (67584, tone): Sine wave
+EPANNS Predicted sound for (67584, car): Vehicle
+PANNS Predicted sound for (67584, car): Vehicle
+EPANNS Predicted sound for (67584, river+car): Vehicle
+PANNS Predicted sound for (67584, river+car): Vehicle
+EPANNS Predicted sound for (67584, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (67584, phone+voice): Telephone bell ringing
+68608 35
+EPANNS Predicted sound for (68608, tone): Sine wave
+PANNS Predicted sound for (68608, tone): Sine wave
+EPANNS Predicted sound for (68608, car): Vehicle
+PANNS Predicted sound for (68608, car): Vehicle
+EPANNS Predicted sound for (68608, river+car): Vehicle
+PANNS Predicted sound for (68608, river+car): Vehicle
+EPANNS Predicted sound for (68608, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (68608, phone+voice): Music
+69632 36
+EPANNS Predicted sound for (69632, tone): Sine wave
+PANNS Predicted sound for (69632, tone): Sine wave
+EPANNS Predicted sound for (69632, car): Vehicle
+PANNS Predicted sound for (69632, car): Vehicle
+EPANNS Predicted sound for (69632, river+car): Vehicle
+PANNS Predicted sound for (69632, river+car): Vehicle
+EPANNS Predicted sound for (69632, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (69632, phone+voice): Music
+70656 37
+EPANNS Predicted sound for (70656, tone): Sine wave
+PANNS Predicted sound for (70656, tone): Sine wave
+EPANNS Predicted sound for (70656, car): Vehicle
+PANNS Predicted sound for (70656, car): Vehicle
+EPANNS Predicted sound for (70656, river+car): Vehicle
+PANNS Predicted sound for (70656, river+car): Vehicle
+EPANNS Predicted sound for (70656, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (70656, phone+voice): Music
+71680 38
+EPANNS Predicted sound for (71680, tone): Sine wave
+PANNS Predicted sound for (71680, tone): Sine wave
+EPANNS Predicted sound for (71680, car): Vehicle
+PANNS Predicted sound for (71680, car): Vehicle
+EPANNS Predicted sound for (71680, river+car): Vehicle
+PANNS Predicted sound for (71680, river+car): Vehicle
+EPANNS Predicted sound for (71680, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (71680, phone+voice): Telephone bell ringing
+72704 39
+EPANNS Predicted sound for (72704, tone): Sine wave
+PANNS Predicted sound for (72704, tone): Sine wave
+EPANNS Predicted sound for (72704, car): Vehicle
+PANNS Predicted sound for (72704, car): Vehicle
+EPANNS Predicted sound for (72704, river+car): Vehicle
+PANNS Predicted sound for (72704, river+car): Vehicle
+EPANNS Predicted sound for (72704, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (72704, phone+voice): Telephone bell ringing
+73728 40
+EPANNS Predicted sound for (73728, tone): Sine wave
+PANNS Predicted sound for (73728, tone): Sine wave
+EPANNS Predicted sound for (73728, car): Vehicle
+PANNS Predicted sound for (73728, car): Vehicle
+EPANNS Predicted sound for (73728, river+car): Vehicle
+PANNS Predicted sound for (73728, river+car): Vehicle
+EPANNS Predicted sound for (73728, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (73728, phone+voice): Telephone bell ringing
+74752 41
+EPANNS Predicted sound for (74752, tone): Sine wave
+PANNS Predicted sound for (74752, tone): Sine wave
+EPANNS Predicted sound for (74752, car): Vehicle
+PANNS Predicted sound for (74752, car): Vehicle
+EPANNS Predicted sound for (74752, river+car): Vehicle
+PANNS Predicted sound for (74752, river+car): Vehicle
+EPANNS Predicted sound for (74752, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (74752, phone+voice): Telephone bell ringing
+75776 42
+EPANNS Predicted sound for (75776, tone): Sine wave
+PANNS Predicted sound for (75776, tone): Sine wave
+EPANNS Predicted sound for (75776, car): Vehicle
+PANNS Predicted sound for (75776, car): Vehicle
+EPANNS Predicted sound for (75776, river+car): Vehicle
+PANNS Predicted sound for (75776, river+car): Vehicle
+EPANNS Predicted sound for (75776, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (75776, phone+voice): Telephone bell ringing
+76800 43
+EPANNS Predicted sound for (76800, tone): Sine wave
+PANNS Predicted sound for (76800, tone): Sine wave
+EPANNS Predicted sound for (76800, car): Vehicle
+PANNS Predicted sound for (76800, car): Vehicle
+EPANNS Predicted sound for (76800, river+car): Vehicle
+PANNS Predicted sound for (76800, river+car): Vehicle
+EPANNS Predicted sound for (76800, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (76800, phone+voice): Telephone bell ringing
+77824 44
+EPANNS Predicted sound for (77824, tone): Sine wave
+PANNS Predicted sound for (77824, tone): Sine wave
+EPANNS Predicted sound for (77824, car): Vehicle
+PANNS Predicted sound for (77824, car): Vehicle
+EPANNS Predicted sound for (77824, river+car): Vehicle
+PANNS Predicted sound for (77824, river+car): Vehicle
+EPANNS Predicted sound for (77824, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (77824, phone+voice): Telephone bell ringing
+78848 45
+EPANNS Predicted sound for (78848, tone): Sine wave
+PANNS Predicted sound for (78848, tone): Sine wave
+EPANNS Predicted sound for (78848, car): Vehicle
+PANNS Predicted sound for (78848, car): Vehicle
+EPANNS Predicted sound for (78848, river+car): Vehicle
+PANNS Predicted sound for (78848, river+car): Vehicle
+EPANNS Predicted sound for (78848, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (78848, phone+voice): Telephone bell ringing
+79872 46
+EPANNS Predicted sound for (79872, tone): Sine wave
+PANNS Predicted sound for (79872, tone): Sine wave
+EPANNS Predicted sound for (79872, car): Vehicle
+PANNS Predicted sound for (79872, car): Vehicle
+EPANNS Predicted sound for (79872, river+car): Vehicle
+PANNS Predicted sound for (79872, river+car): Vehicle
+EPANNS Predicted sound for (79872, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (79872, phone+voice): Telephone bell ringing
+80896 47
+EPANNS Predicted sound for (80896, tone): Sine wave
+PANNS Predicted sound for (80896, tone): Sine wave
+EPANNS Predicted sound for (80896, car): Vehicle
+PANNS Predicted sound for (80896, car): Vehicle
+EPANNS Predicted sound for (80896, river+car): Vehicle
+PANNS Predicted sound for (80896, river+car): Vehicle
+EPANNS Predicted sound for (80896, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (80896, phone+voice): Telephone bell ringing
+81920 48
+EPANNS Predicted sound for (81920, tone): Sine wave
+PANNS Predicted sound for (81920, tone): Sine wave
+EPANNS Predicted sound for (81920, car): Vehicle
+PANNS Predicted sound for (81920, car): Vehicle
+EPANNS Predicted sound for (81920, river+car): Vehicle
+PANNS Predicted sound for (81920, river+car): Vehicle
+EPANNS Predicted sound for (81920, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (81920, phone+voice): Telephone bell ringing
+82944 49
+EPANNS Predicted sound for (82944, tone): Sine wave
+PANNS Predicted sound for (82944, tone): Sine wave
+EPANNS Predicted sound for (82944, car): Vehicle
+PANNS Predicted sound for (82944, car): Vehicle
+EPANNS Predicted sound for (82944, river+car): Vehicle
+PANNS Predicted sound for (82944, river+car): Vehicle
+EPANNS Predicted sound for (82944, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (82944, phone+voice): Telephone bell ringing
+83968 50
+EPANNS Predicted sound for (83968, tone): Sine wave
+PANNS Predicted sound for (83968, tone): Sine wave
+EPANNS Predicted sound for (83968, car): Vehicle
+PANNS Predicted sound for (83968, car): Vehicle
+EPANNS Predicted sound for (83968, river+car): Vehicle
+PANNS Predicted sound for (83968, river+car): Vehicle
+EPANNS Predicted sound for (83968, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (83968, phone+voice): Telephone bell ringing
+84992 51
+EPANNS Predicted sound for (84992, tone): Sine wave
+PANNS Predicted sound for (84992, tone): Sine wave
+EPANNS Predicted sound for (84992, car): Vehicle
+PANNS Predicted sound for (84992, car): Vehicle
+EPANNS Predicted sound for (84992, river+car): Vehicle
+PANNS Predicted sound for (84992, river+car): Vehicle
+EPANNS Predicted sound for (84992, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (84992, phone+voice): Telephone bell ringing
+86016 52
+EPANNS Predicted sound for (86016, tone): Sine wave
+PANNS Predicted sound for (86016, tone): Sine wave
+EPANNS Predicted sound for (86016, car): Vehicle
+PANNS Predicted sound for (86016, car): Vehicle
+EPANNS Predicted sound for (86016, river+car): Vehicle
+PANNS Predicted sound for (86016, river+car): Vehicle
+EPANNS Predicted sound for (86016, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (86016, phone+voice): Telephone bell ringing
+87040 53
+EPANNS Predicted sound for (87040, tone): Sine wave
+PANNS Predicted sound for (87040, tone): Sine wave
+EPANNS Predicted sound for (87040, car): Vehicle
+PANNS Predicted sound for (87040, car): Vehicle
+EPANNS Predicted sound for (87040, river+car): Vehicle
+PANNS Predicted sound for (87040, river+car): Vehicle
+EPANNS Predicted sound for (87040, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (87040, phone+voice): Telephone bell ringing
+88064 54
+EPANNS Predicted sound for (88064, tone): Sine wave
+PANNS Predicted sound for (88064, tone): Sine wave
+EPANNS Predicted sound for (88064, car): Vehicle
+PANNS Predicted sound for (88064, car): Vehicle
+EPANNS Predicted sound for (88064, river+car): Vehicle
+PANNS Predicted sound for (88064, river+car): Vehicle
+EPANNS Predicted sound for (88064, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (88064, phone+voice): Telephone bell ringing
+89088 55
+EPANNS Predicted sound for (89088, tone): Sine wave
+PANNS Predicted sound for (89088, tone): Sine wave
+EPANNS Predicted sound for (89088, car): Vehicle
+PANNS Predicted sound for (89088, car): Vehicle
+EPANNS Predicted sound for (89088, river+car): Vehicle
+PANNS Predicted sound for (89088, river+car): Vehicle
+EPANNS Predicted sound for (89088, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (89088, phone+voice): Telephone bell ringing
+90112 56
+EPANNS Predicted sound for (90112, tone): Sine wave
+PANNS Predicted sound for (90112, tone): Sine wave
+EPANNS Predicted sound for (90112, car): Vehicle
+PANNS Predicted sound for (90112, car): Vehicle
+EPANNS Predicted sound for (90112, river+car): Vehicle
+PANNS Predicted sound for (90112, river+car): Vehicle
+EPANNS Predicted sound for (90112, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (90112, phone+voice): Telephone bell ringing
+91136 57
+EPANNS Predicted sound for (91136, tone): Sine wave
+PANNS Predicted sound for (91136, tone): Sine wave
+EPANNS Predicted sound for (91136, car): Vehicle
+PANNS Predicted sound for (91136, car): Vehicle
+EPANNS Predicted sound for (91136, river+car): Vehicle
+PANNS Predicted sound for (91136, river+car): Vehicle
+EPANNS Predicted sound for (91136, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (91136, phone+voice): Telephone bell ringing
+92160 58
+EPANNS Predicted sound for (92160, tone): Sine wave
+PANNS Predicted sound for (92160, tone): Sine wave
+EPANNS Predicted sound for (92160, car): Vehicle
+PANNS Predicted sound for (92160, car): Vehicle
+EPANNS Predicted sound for (92160, river+car): Vehicle
+PANNS Predicted sound for (92160, river+car): Vehicle
+EPANNS Predicted sound for (92160, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (92160, phone+voice): Telephone bell ringing
+93184 59
+EPANNS Predicted sound for (93184, tone): Sine wave
+PANNS Predicted sound for (93184, tone): Sine wave
+EPANNS Predicted sound for (93184, car): Vehicle
+PANNS Predicted sound for (93184, car): Vehicle
+EPANNS Predicted sound for (93184, river+car): Vehicle
+PANNS Predicted sound for (93184, river+car): Vehicle
+EPANNS Predicted sound for (93184, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (93184, phone+voice): Telephone bell ringing
+94208 60
+EPANNS Predicted sound for (94208, tone): Sine wave
+PANNS Predicted sound for (94208, tone): Sine wave
+EPANNS Predicted sound for (94208, car): Vehicle
+PANNS Predicted sound for (94208, car): Vehicle
+EPANNS Predicted sound for (94208, river+car): Vehicle
+PANNS Predicted sound for (94208, river+car): Vehicle
+EPANNS Predicted sound for (94208, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (94208, phone+voice): Telephone bell ringing
+95232 61
+EPANNS Predicted sound for (95232, tone): Sine wave
+PANNS Predicted sound for (95232, tone): Sine wave
+EPANNS Predicted sound for (95232, car): Vehicle
+PANNS Predicted sound for (95232, car): Vehicle
+EPANNS Predicted sound for (95232, river+car): Vehicle
+PANNS Predicted sound for (95232, river+car): Vehicle
+EPANNS Predicted sound for (95232, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (95232, phone+voice): Telephone bell ringing
+96256 62
+EPANNS Predicted sound for (96256, tone): Sine wave
+PANNS Predicted sound for (96256, tone): Sine wave
+EPANNS Predicted sound for (96256, car): Vehicle
+PANNS Predicted sound for (96256, car): Vehicle
+EPANNS Predicted sound for (96256, river+car): Vehicle
+PANNS Predicted sound for (96256, river+car): Vehicle
+EPANNS Predicted sound for (96256, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (96256, phone+voice): Telephone bell ringing
+97280 63
+EPANNS Predicted sound for (97280, tone): Sine wave
+PANNS Predicted sound for (97280, tone): Sine wave
+EPANNS Predicted sound for (97280, car): Vehicle
+PANNS Predicted sound for (97280, car): Vehicle
+EPANNS Predicted sound for (97280, river+car): Vehicle
+PANNS Predicted sound for (97280, river+car): Vehicle
+EPANNS Predicted sound for (97280, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (97280, phone+voice): Telephone bell ringing
+98304 64
+EPANNS Predicted sound for (98304, tone): Sine wave
+PANNS Predicted sound for (98304, tone): Sine wave
+EPANNS Predicted sound for (98304, car): Vehicle
+PANNS Predicted sound for (98304, car): Vehicle
+EPANNS Predicted sound for (98304, river+car): Vehicle
+PANNS Predicted sound for (98304, river+car): Vehicle
+EPANNS Predicted sound for (98304, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (98304, phone+voice): Telephone bell ringing
+99328 65
+EPANNS Predicted sound for (99328, tone): Sine wave
+PANNS Predicted sound for (99328, tone): Sine wave
+EPANNS Predicted sound for (99328, car): Vehicle
+PANNS Predicted sound for (99328, car): Vehicle
+EPANNS Predicted sound for (99328, river+car): Vehicle
+PANNS Predicted sound for (99328, river+car): Vehicle
+EPANNS Predicted sound for (99328, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (99328, phone+voice): Telephone bell ringing
+100352 66
+EPANNS Predicted sound for (100352, tone): Sine wave
+PANNS Predicted sound for (100352, tone): Sine wave
+EPANNS Predicted sound for (100352, car): Vehicle
+PANNS Predicted sound for (100352, car): Vehicle
+EPANNS Predicted sound for (100352, river+car): Vehicle
+PANNS Predicted sound for (100352, river+car): Vehicle
+EPANNS Predicted sound for (100352, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (100352, phone+voice): Telephone bell ringing
+101376 67
+EPANNS Predicted sound for (101376, tone): Sine wave
+PANNS Predicted sound for (101376, tone): Sine wave
+EPANNS Predicted sound for (101376, car): Vehicle
+PANNS Predicted sound for (101376, car): Vehicle
+EPANNS Predicted sound for (101376, river+car): Vehicle
+PANNS Predicted sound for (101376, river+car): Vehicle
+EPANNS Predicted sound for (101376, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (101376, phone+voice): Telephone bell ringing
+102400 68
+EPANNS Predicted sound for (102400, tone): Sine wave
+PANNS Predicted sound for (102400, tone): Sine wave
+EPANNS Predicted sound for (102400, car): Vehicle
+PANNS Predicted sound for (102400, car): Vehicle
+EPANNS Predicted sound for (102400, river+car): Vehicle
+PANNS Predicted sound for (102400, river+car): Waves, surf
+EPANNS Predicted sound for (102400, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (102400, phone+voice): Telephone bell ringing
+103424 69
+EPANNS Predicted sound for (103424, tone): Sine wave
+PANNS Predicted sound for (103424, tone): Sine wave
+EPANNS Predicted sound for (103424, car): Vehicle
+PANNS Predicted sound for (103424, car): Vehicle
+EPANNS Predicted sound for (103424, river+car): Vehicle
+PANNS Predicted sound for (103424, river+car): Waves, surf
+EPANNS Predicted sound for (103424, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (103424, phone+voice): Telephone bell ringing
+104448 70
+EPANNS Predicted sound for (104448, tone): Sine wave
+PANNS Predicted sound for (104448, tone): Sine wave
+EPANNS Predicted sound for (104448, car): Vehicle
+PANNS Predicted sound for (104448, car): Vehicle
+EPANNS Predicted sound for (104448, river+car): Vehicle
+PANNS Predicted sound for (104448, river+car): Waves, surf
+EPANNS Predicted sound for (104448, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (104448, phone+voice): Telephone bell ringing
+105472 71
+EPANNS Predicted sound for (105472, tone): Sine wave
+PANNS Predicted sound for (105472, tone): Sine wave
+EPANNS Predicted sound for (105472, car): Vehicle
+PANNS Predicted sound for (105472, car): Vehicle
+EPANNS Predicted sound for (105472, river+car): Vehicle
+PANNS Predicted sound for (105472, river+car): Waves, surf
+EPANNS Predicted sound for (105472, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (105472, phone+voice): Telephone bell ringing
+106496 72
+EPANNS Predicted sound for (106496, tone): Sine wave
+PANNS Predicted sound for (106496, tone): Sine wave
+EPANNS Predicted sound for (106496, car): Vehicle
+PANNS Predicted sound for (106496, car): Vehicle
+EPANNS Predicted sound for (106496, river+car): Vehicle
+PANNS Predicted sound for (106496, river+car): Waves, surf
+EPANNS Predicted sound for (106496, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (106496, phone+voice): Telephone bell ringing
+107520 73
+EPANNS Predicted sound for (107520, tone): Sine wave
+PANNS Predicted sound for (107520, tone): Sine wave
+EPANNS Predicted sound for (107520, car): Vehicle
+PANNS Predicted sound for (107520, car): Vehicle
+EPANNS Predicted sound for (107520, river+car): Vehicle
+PANNS Predicted sound for (107520, river+car): Waves, surf
+EPANNS Predicted sound for (107520, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (107520, phone+voice): Telephone bell ringing
+108544 74
+EPANNS Predicted sound for (108544, tone): Sine wave
+PANNS Predicted sound for (108544, tone): Sine wave
+EPANNS Predicted sound for (108544, car): Vehicle
+PANNS Predicted sound for (108544, car): Vehicle
+EPANNS Predicted sound for (108544, river+car): Vehicle
+PANNS Predicted sound for (108544, river+car): Waves, surf
+EPANNS Predicted sound for (108544, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (108544, phone+voice): Telephone bell ringing
+109568 75
+EPANNS Predicted sound for (109568, tone): Sine wave
+PANNS Predicted sound for (109568, tone): Sine wave
+EPANNS Predicted sound for (109568, car): Vehicle
+PANNS Predicted sound for (109568, car): Vehicle
+EPANNS Predicted sound for (109568, river+car): Vehicle
+PANNS Predicted sound for (109568, river+car): Waves, surf
+EPANNS Predicted sound for (109568, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (109568, phone+voice): Telephone bell ringing
+110592 76
+EPANNS Predicted sound for (110592, tone): Sine wave
+PANNS Predicted sound for (110592, tone): Sine wave
+EPANNS Predicted sound for (110592, car): Vehicle
+PANNS Predicted sound for (110592, car): Vehicle
+EPANNS Predicted sound for (110592, river+car): Vehicle
+PANNS Predicted sound for (110592, river+car): Waves, surf
+EPANNS Predicted sound for (110592, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (110592, phone+voice): Telephone bell ringing
+111616 77
+EPANNS Predicted sound for (111616, tone): Sine wave
+PANNS Predicted sound for (111616, tone): Sine wave
+EPANNS Predicted sound for (111616, car): Vehicle
+PANNS Predicted sound for (111616, car): Vehicle
+EPANNS Predicted sound for (111616, river+car): Vehicle
+PANNS Predicted sound for (111616, river+car): Waves, surf
+EPANNS Predicted sound for (111616, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (111616, phone+voice): Telephone bell ringing
+112640 78
+EPANNS Predicted sound for (112640, tone): Sine wave
+PANNS Predicted sound for (112640, tone): Sine wave
+EPANNS Predicted sound for (112640, car): Vehicle
+PANNS Predicted sound for (112640, car): Vehicle
+EPANNS Predicted sound for (112640, river+car): Vehicle
+PANNS Predicted sound for (112640, river+car): Vehicle
+EPANNS Predicted sound for (112640, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (112640, phone+voice): Telephone bell ringing
+113664 79
+EPANNS Predicted sound for (113664, tone): Sine wave
+PANNS Predicted sound for (113664, tone): Sine wave
+EPANNS Predicted sound for (113664, car): Vehicle
+PANNS Predicted sound for (113664, car): Vehicle
+EPANNS Predicted sound for (113664, river+car): Vehicle
+PANNS Predicted sound for (113664, river+car): Waves, surf
+EPANNS Predicted sound for (113664, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (113664, phone+voice): Telephone bell ringing
+114688 80
+EPANNS Predicted sound for (114688, tone): Sine wave
+PANNS Predicted sound for (114688, tone): Sine wave
+EPANNS Predicted sound for (114688, car): Vehicle
+PANNS Predicted sound for (114688, car): Vehicle
+EPANNS Predicted sound for (114688, river+car): Vehicle
+PANNS Predicted sound for (114688, river+car): Waves, surf
+EPANNS Predicted sound for (114688, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (114688, phone+voice): Telephone bell ringing
+115712 81
+EPANNS Predicted sound for (115712, tone): Sine wave
+PANNS Predicted sound for (115712, tone): Sine wave
+EPANNS Predicted sound for (115712, car): Vehicle
+PANNS Predicted sound for (115712, car): Vehicle
+EPANNS Predicted sound for (115712, river+car): Vehicle
+PANNS Predicted sound for (115712, river+car): Waves, surf
+EPANNS Predicted sound for (115712, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (115712, phone+voice): Telephone bell ringing
+116736 82
+EPANNS Predicted sound for (116736, tone): Sine wave
+PANNS Predicted sound for (116736, tone): Sine wave
+EPANNS Predicted sound for (116736, car): Vehicle
+PANNS Predicted sound for (116736, car): Vehicle
+EPANNS Predicted sound for (116736, river+car): Vehicle
+PANNS Predicted sound for (116736, river+car): Waves, surf
+EPANNS Predicted sound for (116736, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (116736, phone+voice): Telephone bell ringing
+117760 83
+EPANNS Predicted sound for (117760, tone): Sine wave
+PANNS Predicted sound for (117760, tone): Sine wave
+EPANNS Predicted sound for (117760, car): Vehicle
+PANNS Predicted sound for (117760, car): Vehicle
+EPANNS Predicted sound for (117760, river+car): Vehicle
+PANNS Predicted sound for (117760, river+car): Vehicle
+EPANNS Predicted sound for (117760, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (117760, phone+voice): Telephone bell ringing
+118784 84
+EPANNS Predicted sound for (118784, tone): Sine wave
+PANNS Predicted sound for (118784, tone): Sine wave
+EPANNS Predicted sound for (118784, car): Vehicle
+PANNS Predicted sound for (118784, car): Vehicle
+EPANNS Predicted sound for (118784, river+car): Vehicle
+PANNS Predicted sound for (118784, river+car): Vehicle
+EPANNS Predicted sound for (118784, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (118784, phone+voice): Telephone bell ringing
+119808 85
+EPANNS Predicted sound for (119808, tone): Sine wave
+PANNS Predicted sound for (119808, tone): Sine wave
+EPANNS Predicted sound for (119808, car): Vehicle
+PANNS Predicted sound for (119808, car): Vehicle
+EPANNS Predicted sound for (119808, river+car): Vehicle
+PANNS Predicted sound for (119808, river+car): Waves, surf
+EPANNS Predicted sound for (119808, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (119808, phone+voice): Telephone bell ringing
+120832 86
+EPANNS Predicted sound for (120832, tone): Sine wave
+PANNS Predicted sound for (120832, tone): Sine wave
+EPANNS Predicted sound for (120832, car): Vehicle
+PANNS Predicted sound for (120832, car): Vehicle
+EPANNS Predicted sound for (120832, river+car): Vehicle
+PANNS Predicted sound for (120832, river+car): Vehicle
+EPANNS Predicted sound for (120832, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (120832, phone+voice): Telephone bell ringing
+121856 87
+EPANNS Predicted sound for (121856, tone): Sine wave
+PANNS Predicted sound for (121856, tone): Sine wave
+EPANNS Predicted sound for (121856, car): Vehicle
+PANNS Predicted sound for (121856, car): Vehicle
+EPANNS Predicted sound for (121856, river+car): Vehicle
+PANNS Predicted sound for (121856, river+car): Waves, surf
+EPANNS Predicted sound for (121856, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (121856, phone+voice): Telephone bell ringing
+122880 88
+EPANNS Predicted sound for (122880, tone): Sine wave
+PANNS Predicted sound for (122880, tone): Sine wave
+EPANNS Predicted sound for (122880, car): Vehicle
+PANNS Predicted sound for (122880, car): Vehicle
+EPANNS Predicted sound for (122880, river+car): Vehicle
+PANNS Predicted sound for (122880, river+car): Vehicle
+EPANNS Predicted sound for (122880, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (122880, phone+voice): Telephone bell ringing
+123904 89
+EPANNS Predicted sound for (123904, tone): Sine wave
+PANNS Predicted sound for (123904, tone): Sine wave
+EPANNS Predicted sound for (123904, car): Vehicle
+PANNS Predicted sound for (123904, car): Vehicle
+EPANNS Predicted sound for (123904, river+car): Vehicle
+PANNS Predicted sound for (123904, river+car): Vehicle
+EPANNS Predicted sound for (123904, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (123904, phone+voice): Telephone bell ringing
+124928 90
+EPANNS Predicted sound for (124928, tone): Sine wave
+PANNS Predicted sound for (124928, tone): Sine wave
+EPANNS Predicted sound for (124928, car): Vehicle
+PANNS Predicted sound for (124928, car): Vehicle
+EPANNS Predicted sound for (124928, river+car): Vehicle
+PANNS Predicted sound for (124928, river+car): Vehicle
+EPANNS Predicted sound for (124928, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (124928, phone+voice): Telephone bell ringing
+125952 91
+EPANNS Predicted sound for (125952, tone): Sine wave
+PANNS Predicted sound for (125952, tone): Sine wave
+EPANNS Predicted sound for (125952, car): Vehicle
+PANNS Predicted sound for (125952, car): Vehicle
+EPANNS Predicted sound for (125952, river+car): Vehicle
+PANNS Predicted sound for (125952, river+car): Vehicle
+EPANNS Predicted sound for (125952, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (125952, phone+voice): Telephone bell ringing
+126976 92
+EPANNS Predicted sound for (126976, tone): Sine wave
+PANNS Predicted sound for (126976, tone): Sine wave
+EPANNS Predicted sound for (126976, car): Vehicle
+PANNS Predicted sound for (126976, car): Vehicle
+EPANNS Predicted sound for (126976, river+car): Vehicle
+PANNS Predicted sound for (126976, river+car): Vehicle
+EPANNS Predicted sound for (126976, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (126976, phone+voice): Telephone bell ringing
+128000 93
+EPANNS Predicted sound for (128000, tone): Sine wave
+PANNS Predicted sound for (128000, tone): Sine wave
+EPANNS Predicted sound for (128000, car): Vehicle
+PANNS Predicted sound for (128000, car): Vehicle
+EPANNS Predicted sound for (128000, river+car): Vehicle
+PANNS Predicted sound for (128000, river+car): Vehicle
+EPANNS Predicted sound for (128000, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (128000, phone+voice): Telephone bell ringing
+129024 94
+EPANNS Predicted sound for (129024, tone): Sine wave
+PANNS Predicted sound for (129024, tone): Sine wave
+EPANNS Predicted sound for (129024, car): Vehicle
+PANNS Predicted sound for (129024, car): Vehicle
+EPANNS Predicted sound for (129024, river+car): Vehicle
+PANNS Predicted sound for (129024, river+car): Vehicle
+EPANNS Predicted sound for (129024, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (129024, phone+voice): Telephone bell ringing
+130048 95
+EPANNS Predicted sound for (130048, tone): Sine wave
+PANNS Predicted sound for (130048, tone): Sine wave
+EPANNS Predicted sound for (130048, car): Vehicle
+PANNS Predicted sound for (130048, car): Vehicle
+EPANNS Predicted sound for (130048, river+car): Vehicle
+PANNS Predicted sound for (130048, river+car): Vehicle
+EPANNS Predicted sound for (130048, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (130048, phone+voice): Telephone bell ringing
+131072 96
+EPANNS Predicted sound for (131072, tone): Sine wave
+PANNS Predicted sound for (131072, tone): Sine wave
+EPANNS Predicted sound for (131072, car): Vehicle
+PANNS Predicted sound for (131072, car): Vehicle
+EPANNS Predicted sound for (131072, river+car): Vehicle
+PANNS Predicted sound for (131072, river+car): Vehicle
+EPANNS Predicted sound for (131072, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (131072, phone+voice): Telephone bell ringing
+132096 97
+EPANNS Predicted sound for (132096, tone): Sine wave
+PANNS Predicted sound for (132096, tone): Sine wave
+EPANNS Predicted sound for (132096, car): Vehicle
+PANNS Predicted sound for (132096, car): Vehicle
+EPANNS Predicted sound for (132096, river+car): Vehicle
+PANNS Predicted sound for (132096, river+car): Vehicle
+EPANNS Predicted sound for (132096, phone+voice): Telephone bell ringing
+PANNS Predicted sound for (132096, phone+voice): Telephone bell ringing
+133120 98
+EPANNS Predicted sound for (133120, tone): Sine wave
+PANNS Predicted sound for (133120, tone): Sine wave
+EPANNS Predicted sound for (133120, car): Vehicle
+PANNS Predicted sound for (133120, car): Vehicle
+EPANNS Predicted sound for (133120, river+car): Vehicle
+PANNS Predicted sound for (133120, river+car): Vehicle
+EPANNS Predicted sound for (133120, phone+voice): Speech
+PANNS Predicted sound for (133120, phone+voice): Speech
+134144 99
+EPANNS Predicted sound for (134144, tone): Sine wave
+PANNS Predicted sound for (134144, tone): Sine wave
+EPANNS Predicted sound for (134144, car): Vehicle
+PANNS Predicted sound for (134144, car): Vehicle
+EPANNS Predicted sound for (134144, river+car): Vehicle
+PANNS Predicted sound for (134144, river+car): Vehicle
+EPANNS Predicted sound for (134144, phone+voice): Speech
+PANNS Predicted sound for (134144, phone+voice): Speech

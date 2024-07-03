@@ -1,0 +1,31 @@
+networks:
+  ndi-internal:
+    driver: bridge
+
+services:
+  sed-backend:
+    build: ./ndi_interface
+    ports:
+      - "5001:5000"
+    networks:
+      - ndi-internal
+  sed-frontend:
+    build: ./sed_dashboard
+    ports:
+      - "5000:5000"
+    networks:
+      - ndi-internal
+  discovery-service:
+    build: ./ndi_interface/discovery_service
+    ports: 
+      - "5959:5959"
+      - "5353:5353"
+    networks:
+      - ndi-internal
+  test-app:
+    build: ./sound_detector_test_app
+    ports:
+      - "5002:5000"
+    networks:
+      - ndi-internal
+  

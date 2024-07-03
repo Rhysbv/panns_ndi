@@ -1,0 +1,22 @@
+<!doctype html>
+<html>
+  <head>
+    <title>SED Test App</title>
+  </head>
+  <body>
+    <h1>SED Test App</h1>
+    <p id="prediction"></p>
+    <br>
+    <script>
+      const updatePrediction = (text) => {
+        document.getElementById('prediction').innerHTML = `Prediction: ${text}`;
+      };
+
+      const socket = new WebSocket('ws://' + location.host + '/prediction');
+      socket.addEventListener('message', ev => {
+        updatePrediction(ev.data);
+      });
+      
+    </script>
+  </body>
+</html>
