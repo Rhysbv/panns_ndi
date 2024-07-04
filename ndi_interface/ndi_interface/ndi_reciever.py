@@ -66,8 +66,6 @@ class NDIReceiver:
             finally:
                 
                 #logging.debug('Freeing resources.')
-                #This is fucked should be freed after poped and used which is sad as not in this class :(
-                #maybe add a free_X_frame functon but also kinda defeats alot of the point of the module
                 ndi.recv_free_audio_v2(self.ndi_recv, a)
                 ndi.recv_free_video_v2(self.ndi_recv, v)
                 ndi.recv_free_metadata(self.ndi_recv, m)
