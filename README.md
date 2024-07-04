@@ -1,7 +1,7 @@
 # panns_ndi
 
 
-#in process, to be completed soon
+# in process, to be completed soon
 
-#Prediction results: 
-#model latency:  
+# Prediction results: 
+# model latency:  
