@@ -1,0 +1,6 @@
+ndi-python
+numpy
+panns-inference
+flask
+torch
+torchsummary
