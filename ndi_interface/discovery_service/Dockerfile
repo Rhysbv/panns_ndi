@@ -16,4 +16,4 @@ RUN yes | ./Install_NDI_SDK_v6_Linux.sh
 
 EXPOSE 5959
 
-CMD /usr/src/app/NDI\ SDK\ for\ Linux/bin/x86_64-linux-gnu/ndi-directory-service
+CMD /usr/src/app/NDI\ SDK\ for\ Linux/bin/x86_64-linux-gnu/ndi-discovery-server
