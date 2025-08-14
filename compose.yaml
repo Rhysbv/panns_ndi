@@ -9,6 +9,13 @@ services:
       - "5001:5000"
     networks:
       - ndi-internal
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              count: 1
+              capabilities: [gpu]
   sed-frontend:
     build: ./sed_dashboard
     ports:
