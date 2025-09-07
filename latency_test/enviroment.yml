@@ -83,4 +83,3 @@ dependencies:
       - triton==2.2.0
       - typing-extensions==4.12.2
       - urllib3==2.2.2
-prefix: /home/rhys/anaconda3/envs/panns_latency
