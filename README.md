@@ -2,7 +2,7 @@
 
 
 # Installation
-This demo uses docker, instructions on how to install docker onto your machine can be found [here] (https://docs.docker.com/get-started/introduction/get-docker-desktop/)
+This demo uses docker, instructions on how to install docker onto your machine can be found [here](https://docs.docker.com/get-started/introduction/get-docker-desktop/)
 
 You will also need an NDI source. The easiest way to achieve this is [OBS](https://obsproject.com/) with the [DistroAV plugin](https://github.com/DistroAV/DistroAV). You will also need to install the NDI runtime. This can be done by installing [NDI Tools](https://ndi.video/tools/) on Windows and Mac or the [NDI SDK](https://ndi.video/for-developers/ndi-sdk/) on Linux. 
 
