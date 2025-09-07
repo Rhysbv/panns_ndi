@@ -79,14 +79,14 @@ class NDITransmitter:
     def start(self) -> None:
         self.is_transmitting.set()
         self.audio_thread.start()
-        #self.video_thread.start()
+        self.video_thread.start()
         self.meta_thread.start()
 
     def append_audio(self, audio_data) -> None:
         self.audio_buffer.append(audio_data)
 
     def append_video(self, video_data) -> None:
-        pass#self.video_buffer.append(video_data)
+        self.video_buffer.append(video_data)
 
     def append_meta(self, meta_data) -> None:
         self.meta_buffer.append(meta_data)
@@ -94,7 +94,7 @@ class NDITransmitter:
     def stop(self) -> None:
         self.is_transmitting.clear()
         self.audio_thread.join()
-        #self.video_thread.join()
+        self.video_thread.join()
         self.meta_thread.join()
 
     def cleanup(self) -> None:
