@@ -10,7 +10,7 @@ class NDISEDExtractor:
     def __init__(self, source) -> None:
         ET.register_namespace('sed', "https://www.surrey.ac.uk")
         self.reciever = ndi_reciever.NDIReceiver(source)
-        self.transmitter = ndi_transmitter.NDITransmitter("SED Icon Injector")
+        self.transmitter = ndi_transmitter.NDITransmitter("SED Output")
         self.transmit_thread = threading.Thread(target=self._transmit)
         self.is_running = threading.Event()
         self.predicted_sound = ""
